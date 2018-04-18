@@ -6,13 +6,17 @@
   "scripts": {
     "build": "next build",
     "dev": "next",
-    "start": "next start"
+    "start": "next start",
+    "precommit": "pretty-quick --staged"
   },
   "author": "Max Li <maxlivinci@gmail.com> (https://max-li.aerobatic.io/)",
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-styled-components": "^1.5.1",
-    "cz-conventional-changelog": "^2.1.0"
+    "cz-conventional-changelog": "^2.1.0",
+    "husky": "^0.14.3",
+    "prettier": "^1.12.1",
+    "pretty-quick": "^1.4.1"
   },
   "config": {
     "commitizen": {
