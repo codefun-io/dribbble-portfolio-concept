@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { injectGlobal } from 'styled-components'
-
+import { Hero } from './hero'
 import Nav from './nav'
 
 injectGlobal`
@@ -21,20 +21,22 @@ injectGlobal`
   }
 `
 const Bg = styled.div`
-    background:url('../../static/img/500.png');
-    position:absolute;
-    max-width:100vw;
-    max-height:100vh;
-    z-index:-30;
-    background-size:cover;
+  background: url('../../static/img/500.png');
+  position: absolute;
+  max-width: 100vw;
+  max-height: 100vh;
+  left: 0;
+  top: 0;
+  z-index: -30;
+  background-size: cover;
 `
 const Wrap = styled.div`
-      overflow:hidden;
+  overflow: hidden;
 `
 const withLayout = ComposedComponent => props => (
   <Wrap>
     <Bg />
-    <Nav />
+    <Hero />
     <ComposedComponent />
   </Wrap>
 )
