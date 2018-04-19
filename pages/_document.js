@@ -17,12 +17,9 @@ export default class MyDocument extends Document {
         <Head>
           <title>Traveltrip</title>
           {this.props.styleTags}
+
           <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300"
-            rel="stylesheet"
-          />
-          <link
-            href="https://fonts.googleapis.com/css?family=Anton|Open+Sans:300"
+            href="https://fonts.googleapis.com/css?family=Montserrat|Archivo|Anton|Archivo+Black|Open+Sans:300"
             rel="stylesheet"
           />
 

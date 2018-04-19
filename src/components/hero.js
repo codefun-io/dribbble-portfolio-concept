@@ -6,21 +6,24 @@ const Wrap = styled.div`
   font-size: 1rem;
   margin-top: 20px;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 2fr 2fr 2fr;
   grid-template-rows: 10px 100px auto;
   min-width: 400px;
   @media (max-width: 720px) {
     grid-template-columns: 1fr 5fr 1fr;
-    grid-template-rows: 10px 60px auto;
+    grid-template-rows: 30px 60px auto;
   }
 `
 const Titleh4 = styled.div`
   font-size: 0.5em;
+  letter-spacing: 5px;
   grid-column: 2/3;
   grid-row: 1;
   display: flex;
   justify-content: center;
   flex: 1;
+  color: #bfbfbf;
+  font-weight: 900;
 `
 const WrapTitle2 = styled.div`
   grid-column: 2/3;
@@ -28,6 +31,7 @@ const WrapTitle2 = styled.div`
   grid-row: 2;
   display: flex;
   justify-content: center;
+  white-space: nowrap;
   flex: 1;
   @media (max-width: 1000px) {
     font-size: 3em;
@@ -40,19 +44,21 @@ const WrapTitle2 = styled.div`
   }
 `
 const BoldTitle = styled.b`
-  font-family: 'Anton', sans-serif;
+  font-family: 'Archivo', sans-serif;
   letter-spacing: 5px;
   margin-left: 15px;
+  margin-top: 10px;
 `
 
 const Titleh3 = styled.div`
   grid-column: 2/3;
-  font-size: 1em;
+  font-size: 0.9em;
   grid-row: 3;
   display: flex;
   justify-content: center;
   flex: 1;
   text-align: center;
+  color: #8e8e8e;
 
   @media (max-width: 1000px) {
     font-size: 0.8em;
@@ -75,10 +81,14 @@ const ButtonWrap = styled.div`
   text-align: center;
 `
 const Button = styled.div`
+  font-family: 'Archivo', sans-serif;
+  background: #fff;
+  font-size: 1em;
+  font-weight: bold;
   margin-top: 30px;
-  padding: 15px 60px;
-  border: 1px solid #a0a0a0;
-  border-radius: 3px;
+  padding: 15px 30px;
+  border: 1px solid #bfbfbf;
+  border-radius: 1px;
 `
 
 export const Hero = props => {
@@ -86,14 +96,14 @@ export const Hero = props => {
     <Wrap>
       <Titleh4>REYKYAVIK BASED</Titleh4>
       <WrapTitle2>
-        We are <BoldTitle>HIRE.</BoldTitle>{' '}
+        We are <BoldTitle>HIRING.</BoldTitle>{' '}
       </WrapTitle2>
       <Titleh3>
         Reykyavik or remote ,get in touch and find a perfect spot for you .
         We're looking for owesome people and Martians
       </Titleh3>
       <ButtonWrap>
-        <Button>Learn More</Button>
+        <Button>LEARN MORE</Button>
       </ButtonWrap>
     </Wrap>
   )

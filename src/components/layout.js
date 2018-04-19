@@ -9,7 +9,9 @@ injectGlobal`
   }
 
   body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    
+
   }
 
   a {
@@ -37,7 +39,7 @@ const Wrap = styled.div`
 
 const withLayout = ComposedComponent => props => (
   <Wrap>
-    <Bg className='background' />
+    <Bg className="background" />
     <Hero />
     <ComposedComponent />
   </Wrap>
