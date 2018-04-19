@@ -21,7 +21,7 @@ injectGlobal`
   }
 `
 const Bg = styled.div`
-  background: url('../../static/img/500.png');
+  background: blue;
   position: absolute;
   max-width: 100vw;
   max-height: 100vh;
