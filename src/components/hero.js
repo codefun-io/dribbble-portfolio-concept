@@ -24,6 +24,18 @@ const Titleh2 = styled.div`
   display: flex;
   justify-content: center;
   flex: 1;
+  @media (max-width: 1000px) {
+    font-size: 3em;
+    background: red;
+  }
+  @media (max-width: 850px) {
+    font-size: 2.5em;
+    background: yellow;
+  }
+  @media (max-width: 720px) {
+    font-size: 1.5em;
+    background: blue;
+  }
 `
 
 const Titleh3 = styled.div`
