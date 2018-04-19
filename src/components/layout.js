@@ -21,21 +21,23 @@ injectGlobal`
   }
 `
 const Bg = styled.div`
-  background: blue;
-  position: absolute;
-  max-width: 100vw;
-  max-height: 100vh;
-  left: 0;
-  top: 0;
+  background: url(/static/img/background.png);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 65%;
   z-index: -30;
-  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 `
+
 const Wrap = styled.div`
   overflow: hidden;
 `
+
 const withLayout = ComposedComponent => props => (
   <Wrap>
-    <Bg />
+    <Bg className='background' />
     <Hero />
     <ComposedComponent />
   </Wrap>
