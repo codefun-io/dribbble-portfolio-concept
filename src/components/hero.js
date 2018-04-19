@@ -14,6 +14,7 @@ const Wrap = styled.div`
     grid-template-rows: 10px 60px auto;
   }
 `
+
 const Titleh4 = styled.div`
   font-size: 0.5em;
   grid-column: 2/3;
