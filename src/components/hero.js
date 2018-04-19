@@ -8,6 +8,11 @@ const Wrap = styled.div`
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 10px 100px auto;
+  min-width: 400px;
+  @media (max-width: 720px) {
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-rows: 10px 60px auto;
+  }
 `
 const Titleh4 = styled.div`
   font-size: 0.5em;
@@ -17,7 +22,7 @@ const Titleh4 = styled.div`
   justify-content: center;
   flex: 1;
 `
-const Titleh2 = styled.div`
+const WrapTitle2 = styled.div`
   grid-column: 2/3;
   font-size: 3.5em;
   grid-row: 2;
@@ -26,16 +31,18 @@ const Titleh2 = styled.div`
   flex: 1;
   @media (max-width: 1000px) {
     font-size: 3em;
-    background: red;
   }
   @media (max-width: 850px) {
     font-size: 2.5em;
-    background: yellow;
   }
   @media (max-width: 720px) {
     font-size: 1.5em;
-    background: blue;
   }
+`
+const BoldTitle = styled.b`
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 5px;
+  margin-left: 15px;
 `
 
 const Titleh3 = styled.div`
@@ -46,7 +53,18 @@ const Titleh3 = styled.div`
   justify-content: center;
   flex: 1;
   text-align: center;
+
+  @media (max-width: 1000px) {
+    font-size: 0.8em;
+  }
+  @media (max-width: 850px) {
+    font-size: 0.7em;
+  }
+  @media (max-width: 720px) {
+    font-size: 0.6em;
+  }
 `
+
 const ButtonWrap = styled.div`
   grid-column: 2/3;
   font-size: 1em;
@@ -67,7 +85,9 @@ export const Hero = props => {
   return (
     <Wrap>
       <Titleh4>REYKYAVIK BASED</Titleh4>
-      <Titleh2>We are HIRING</Titleh2>
+      <WrapTitle2>
+        We are <BoldTitle>HIRE.</BoldTitle>{' '}
+      </WrapTitle2>
       <Titleh3>
         Reykyavik or remote ,get in touch and find a perfect spot for you .
         We're looking for owesome people and Martians

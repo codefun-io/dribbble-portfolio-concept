@@ -9,7 +9,7 @@ injectGlobal`
   }
 
   body {
-    font-family: 'Inter UI', sans-serif;
+    font-family: 'Open Sans', sans-serif;
   }
 
   a {
