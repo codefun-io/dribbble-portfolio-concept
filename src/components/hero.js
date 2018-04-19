@@ -14,6 +14,7 @@ const Wrap = styled.div`
     grid-template-rows: 30px 60px auto;
   }
 `
+
 const Titleh4 = styled.div`
   font-size: 0.5em;
   letter-spacing: 5px;

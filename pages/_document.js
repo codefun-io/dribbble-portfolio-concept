@@ -24,6 +24,9 @@ export default class MyDocument extends Document {
           />
 
           <meta content="width=device-width,initial-scale=1" name="viewport" />
+          <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+          <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css" />
+          <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
         </Head>
         <body>
           <Main />
