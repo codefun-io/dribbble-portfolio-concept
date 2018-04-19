@@ -2,8 +2,8 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Wrapper = styled.div`
-  margin-top: -0.5rem;
-  padding-top: 8rem;
+  margin-top: -0.1rem;
+  padding: 7rem;
   text-align: center;
   background-color: #f2f2f2;
 `
@@ -17,23 +17,45 @@ const Form = styled.form`
   padding-top: 5rem;
 `
 
+const TextField = styled.div`
+  width: 35rem;
+`
+
 const Input = styled.input`
   border-bottom: 1px solid #606060;
+  padding-left: 0.8rem;
 `
 
 const Label = styled.label`
-  color: #606060
+  color: #606060;
+  padding-left: 0.8rem;
+`
+
+const Button = styled.div`
+  background: #ffffff !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`
+
+const Triangle = styled.img`
+  width: 35%;
+  margin-left: 5px;
 `
 
 const GetUpdate = () => (
   <Wrapper>
     <Text>Get updates</Text>
     <Form action="#">
-      <div className="mdl-textfield mdl-js-textfield">
+      <TextField className="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <Input className="mdl-textfield__input" type="text" />
         <Label className="mdl-textfield__label" for="sample1">Email Address</Label>
-      </div>
+      </TextField>
     </Form>
+    <br />
+    <Button className="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored">
+      <Triangle src='static/img/play-button.svg' />
+    </Button>
   </Wrapper>
 )
 
