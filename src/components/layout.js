@@ -1,8 +1,7 @@
 import React from 'react'
 import styled, { injectGlobal } from 'styled-components'
-import { Hero } from './hero'
-import Nav from './nav'
 
+import Nav from './nav'
 import Footer from './footer'
 
 injectGlobal`
@@ -42,7 +41,7 @@ const Wrap = styled.div`
 const withLayout = ComposedComponent => props => (
   <Wrap>
     <Bg className="background" />
-    <Hero />
+    <Nav />
     <ComposedComponent />
     <Footer />
   </Wrap>

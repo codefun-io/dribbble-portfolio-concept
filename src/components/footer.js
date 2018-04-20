@@ -55,7 +55,7 @@ const Text = styled.div`
 const Footer = () => (
   <Warpper className='footer'>
     <LogoArea>
-      <Logo src='static/img/logo.svg' />
+      <Logo src='static/img/footer-logo.svg' />
       <Text theme={{ color: '#D9D9D9', fontSize: '1.3rem' }}>Hexon</Text>
     </LogoArea>
     <Social>
