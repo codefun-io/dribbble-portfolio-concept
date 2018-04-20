@@ -1,19 +1,18 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import Container from './container'
+const Container = styled.div`
+  padding: 0 5rem;
+`
 
 const Navigation = styled.div`
   display: flex;
-  margin-top: 3rem;
+  margin-top: 2rem;
 `
 
 const NavLeft = styled.div`
-`
-
-const Logo = styled.a`
-  font-size: 2rem;
-  color: #4c81c6;
+  display: flex;
+  align-items: center;
 `
 
 const NavRight = styled.div`
@@ -24,29 +23,42 @@ const NavRight = styled.div`
 `
 
 const NavItem = styled.a`
-  margin: 0 1.2rem;
-  color: #3da9c3;
+  color: ${props => props.theme && props.theme.color};
+  font-size: ${props => props.theme && props.theme.fontSize};
+  padding: ${props => props.theme && props.theme.padding};
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+`
+
+const Logo = styled.img`
+  width: 2.2rem;
+  height: 2.2rem;
+  margin-right: 0.8rem;
+`
+
+const Text = styled.div`
+  color: ${props => props.theme && props.theme.color};
+  font-size: ${props => props.theme && props.theme.fontSize};
+  padding: ${props => props.theme && props.theme.padding};
+  font-weight: lighter;
 `
 
 const Nav = () => (
   <Container>
-    <Navigation className='navigation'>
-      <NavLeft className='nav-left'>
-        <Logo href='/' className='logo'>
-          Traveltrip
-        </Logo>
+    <Navigation className="navigation">
+      <NavLeft className="nav-left">
+        <Logo src="static/img/nav-logo.svg" />
+        <Text theme={{ color: '#707272', fontSize: '1.3rem' }}>Hexon</Text>
       </NavLeft>
-      <NavRight className='nav-right'>
-        <NavItem href='/'>
-          Home
+      <NavRight className="nav-right">
+        <NavItem
+          href="/"
+          theme={{ color: '#BBBBBB', fontSize: '1rem', padding: '0 2rem 0 0' }}
+        >
+          About
         </NavItem>
-        <NavItem href='/'>
-          About us
-        </NavItem>
-        <NavItem href='/'>
-          Service
-        </NavItem>
-        <NavItem href='/'>
+        <NavItem href="/" theme={{ color: '#BBBBBB', fontSize: '1rem' }}>
           Contact
         </NavItem>
       </NavRight>
