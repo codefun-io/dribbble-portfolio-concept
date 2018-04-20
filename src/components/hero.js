@@ -7,11 +7,11 @@ const Wrap = styled.div`
   margin-top: 20px;
   display: grid;
   grid-template-columns: 2fr 2fr 2fr;
-  grid-template-rows: 10px 100px auto;
-  min-width: 400px;
-  @media (max-width: 720px) {
-    grid-template-columns: 1fr 5fr 1fr;
-    grid-template-rows: 30px 60px auto;
+  grid-template-rows: 40px 80px auto;
+  min-width: 300px;
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 30px 50px auto;
   }
 `
 
@@ -48,7 +48,14 @@ const BoldTitle = styled.b`
   font-family: 'Archivo', sans-serif;
   letter-spacing: 5px;
   margin-left: 15px;
-  margin-top: 10px;
+  margin-top: 3px;
+
+  @media (max-width: 720px) {
+    letter-spacing: 2px;
+  }
+  @media (max-width: 520px) {
+    letter-spacing: 1px;
+  }
 `
 
 const Titleh3 = styled.div`
@@ -91,7 +98,7 @@ const Button = styled.div`
   border: 1px solid #bfbfbf;
   border-radius: 1px;
 `
-
+const Titleh3Wrap = styled.div``
 export const Hero = props => {
   return (
     <Wrap>
@@ -103,6 +110,7 @@ export const Hero = props => {
         Reykyavik or remote ,get in touch and find a perfect spot for you .
         We're looking for owesome people and Martians
       </Titleh3>
+
       <ButtonWrap>
         <Button>LEARN MORE</Button>
       </ButtonWrap>

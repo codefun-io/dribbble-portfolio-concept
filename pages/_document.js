@@ -19,14 +19,20 @@ export default class MyDocument extends Document {
           {this.props.styleTags}
 
           <link
-            href="https://fonts.googleapis.com/css?family=Montserrat|Archivo|Anton|Archivo+Black|Open+Sans:300"
+            href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Montserrat|Archivo|Anton|Archivo+Black|Open+Sans:300"
             rel="stylesheet"
           />
 
           <meta content="width=device-width,initial-scale=1" name="viewport" />
-          <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-          <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css" />
-          <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+          <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          />
+          <link
+            rel="stylesheet"
+            href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css"
+          />
+          <script defer src="https://code.getmdl.io/1.3.0/material.min.js" />
         </Head>
         <body>
           <Main />
