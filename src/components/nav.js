@@ -23,9 +23,9 @@ const NavRight = styled.div`
 `
 
 const NavItem = styled.a`
-  color: ${ props => props.theme && props.theme.color };
-  font-size: ${ props => props.theme && props.theme.fontSize };
-  padding: ${ props => props.theme && props.theme.padding };
+  color: ${props => props.theme && props.theme.color};
+  font-size: ${props => props.theme && props.theme.fontSize};
+  padding: ${props => props.theme && props.theme.padding};
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -38,24 +38,27 @@ const Logo = styled.img`
 `
 
 const Text = styled.div`
-  color: ${ props => props.theme && props.theme.color };
-  font-size: ${ props => props.theme && props.theme.fontSize };
-  padding: ${ props => props.theme && props.theme.padding };
+  color: ${props => props.theme && props.theme.color};
+  font-size: ${props => props.theme && props.theme.fontSize};
+  padding: ${props => props.theme && props.theme.padding};
   font-weight: lighter;
 `
 
 const Nav = () => (
   <Container>
-    <Navigation className='navigation'>
-      <NavLeft className='nav-left'>
-        <Logo src='static/img/nav-logo.svg' />
+    <Navigation className="navigation">
+      <NavLeft className="nav-left">
+        <Logo src="static/img/nav-logo.svg" />
         <Text theme={{ color: '#707272', fontSize: '1.3rem' }}>Hexon</Text>
       </NavLeft>
-      <NavRight className='nav-right'>
-        <NavItem href='/' theme={{ color: '#BBBBBB', fontSize: '1rem', padding: '0 2rem 0 0' }}>
+      <NavRight className="nav-right">
+        <NavItem
+          href="/"
+          theme={{ color: '#BBBBBB', fontSize: '1rem', padding: '0 2rem 0 0' }}
+        >
           About
         </NavItem>
-        <NavItem href='/' theme={{ color: '#BBBBBB', fontSize: '1rem' }}>
+        <NavItem href="/" theme={{ color: '#BBBBBB', fontSize: '1rem' }}>
           Contact
         </NavItem>
       </NavRight>

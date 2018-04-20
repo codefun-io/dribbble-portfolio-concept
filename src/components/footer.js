@@ -42,34 +42,52 @@ const Left = styled.div`
 `
 
 const Right = styled.div`
-  display: flex;  
+  display: flex;
 `
 
 const Text = styled.div`
-  color: ${ props => props.theme && props.theme.color };
-  font-size: ${ props => props.theme && props.theme.fontSize };
-  padding: ${ props => props.theme && props.theme.padding };
+  color: ${props => props.theme && props.theme.color};
+  font-size: ${props => props.theme && props.theme.fontSize};
+  padding: ${props => props.theme && props.theme.padding};
   font-weight: lighter;
 `
 
 const Footer = () => (
-  <Warpper className='footer'>
+  <Warpper className="footer">
     <LogoArea>
-      <Logo src='static/img/footer-logo.svg' />
+      <Logo src="static/img/footer-logo.svg" />
       <Text theme={{ color: '#D9D9D9', fontSize: '1.3rem' }}>Hexon</Text>
     </LogoArea>
     <Social>
-      <Icon src='static/img/facebook.png' />
-      <Icon src='static/img/dribbble.png' />
-      <Icon src='static/img/twitter.png' />
+      <Icon src="static/img/facebook.png" />
+      <Icon src="static/img/dribbble.png" />
+      <Icon src="static/img/twitter.png" />
     </Social>
     <CopyRight>
       <Left>
-        <Text theme={{ color: '#ABABAB', fontSize: '0.9rem', padding: '0 1rem 0 0' }}>Hexon, 2016.</Text>
-        <Text theme={{ color: '#868686', fontSize: '0.9rem' }}>Work rights belong to their respective owners</Text>
+        <Text
+          theme={{
+            color: '#ABABAB',
+            fontSize: '0.9rem',
+            padding: '0 1rem 0 0'
+          }}
+        >
+          Hexon, 2016.
+        </Text>
+        <Text theme={{ color: '#868686', fontSize: '0.9rem' }}>
+          Work rights belong to their respective owners
+        </Text>
       </Left>
       <Right>
-        <Text theme={{ color: '#AEAEAE', fontSize: '0.9rem', padding: '0 2rem 0 0' }}>Legal</Text>
+        <Text
+          theme={{
+            color: '#AEAEAE',
+            fontSize: '0.9rem',
+            padding: '0 2rem 0 0'
+          }}
+        >
+          Legal
+        </Text>
         <Text theme={{ color: '#AEAEAE', fontSize: '0.9rem' }}>Support</Text>
       </Right>
     </CopyRight>
