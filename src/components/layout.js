@@ -3,6 +3,8 @@ import styled, { injectGlobal } from 'styled-components'
 import { Hero } from './hero'
 import Nav from './nav'
 
+import Footer from './footer'
+
 injectGlobal`
   * {
     box-sizing: border-box;
@@ -42,6 +44,7 @@ const withLayout = ComposedComponent => props => (
     <Bg className="background" />
     <Hero />
     <ComposedComponent />
+    <Footer />
   </Wrap>
 )
 
