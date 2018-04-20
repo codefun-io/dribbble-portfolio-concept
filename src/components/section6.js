@@ -32,6 +32,7 @@ const Label = styled.label`
 `
 
 const Button = styled.div`
+  position: relative;
   background: #ffffff !important;
   display: flex;
   justify-content: center;
@@ -40,7 +41,9 @@ const Button = styled.div`
 
 const Triangle = styled.img`
   width: 35%;
-  margin-left: 5px;
+  position: absolute;
+  left: 35%;
+  bottom: 35%;
 `
 
 const GetUpdate = () => (
@@ -49,12 +52,14 @@ const GetUpdate = () => (
     <Form action="#">
       <TextField className="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <Input className="mdl-textfield__input" type="text" />
-        <Label className="mdl-textfield__label" for="sample1">Email Address</Label>
+        <Label className="mdl-textfield__label" for="sample1">
+          Email Address
+        </Label>
       </TextField>
     </Form>
     <br />
     <Button className="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored">
-      <Triangle src='static/img/play-button.svg' />
+      <Triangle src="static/img/play-button.svg" />
     </Button>
   </Wrapper>
 )
