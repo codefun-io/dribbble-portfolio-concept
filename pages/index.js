@@ -6,9 +6,13 @@ import Cat from '../src/components/cat'
 import { Hero } from '../src/components/hero'
 import Gallery from '../src/components/gallery'
 import TextArea from '../src/components/textArea'
+import TextArea2 from '../src/components/textArea'
+
 const Index = () => (
   <div>
     <TextArea />
+    <TextArea2 />
+
     <Gallery />
     <Hero />
     <Cat />
