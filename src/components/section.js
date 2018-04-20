@@ -10,6 +10,6 @@ const SectionBlock = styled.div`
 export const Section = (props) => (
   <SectionBlock>
     Lorem ipsum dolor sit amet, consectetuer Ṇ euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut
-     </SectionBlock>
+  </SectionBlock>
 )
 

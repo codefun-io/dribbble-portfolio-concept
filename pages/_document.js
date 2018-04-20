@@ -15,14 +15,12 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>Traveltrip</title>
+          <title>Hexon</title>
           {this.props.styleTags}
-
           <link
             href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Montserrat|Archivo|Anton|Archivo+Black|Open+Sans:300"
             rel="stylesheet"
           />
-
           <meta content="width=device-width,initial-scale=1" name="viewport" />
           <link
             rel="stylesheet"
