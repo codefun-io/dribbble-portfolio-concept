@@ -52,6 +52,12 @@ const Text = styled.div`
   font-weight: lighter;
 `
 
+const HideInSmall = styled.div`
+  @media only screen and (max-width: 618px) {
+    display: none;
+  }
+`
+
 const Footer = () => (
   <Warpper className="footer">
     <LogoArea>
@@ -74,9 +80,11 @@ const Footer = () => (
         >
           Hexon, 2016.
         </Text>
-        <Text theme={{ color: '#868686', fontSize: '0.9rem' }}>
-          Work rights belong to their respective owners
-        </Text>
+        <HideInSmall>
+          <Text theme={{ color: '#868686', fontSize: '0.9rem' }}>
+            Work rights belong to their respective owners
+          </Text>
+        </HideInSmall>
       </Left>
       <Right>
         <Text

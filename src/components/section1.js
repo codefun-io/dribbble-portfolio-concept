@@ -15,6 +15,9 @@ const Container = styled.div`
 const TextArea = styled.div`
   margin: ${props => props.theme && props.theme.margin};
   display: flex;
+  @media only screen and (max-width: 425px) {
+    text-align: center;
+  }
 `
 
 const Text = styled.div`
@@ -24,14 +27,43 @@ const Text = styled.div`
   font-weight: ${props => props.theme && props.theme.fontWeight};
 `
 
+const Title = Text.extend`
+  @media only screen and (max-width: 618px) {
+    font-size: 3rem;
+  }
+  @media only screen and (max-width: 320px) {
+    font-size: 2rem;
+  }
+`;
+
+const SubTitle = Text.extend`
+  @media only screen and (max-width: 450px) {
+    font-size: 2rem;
+  }
+  @media only screen and (max-width: 320px) {
+    font-size: 1.5rem;
+  }
+`;
+
+const Desc = Text.extend`
+  @media only screen and (max-width: 450px) {
+    padding: 0 1.5rem;
+  }
+  @media only screen and (max-width: 320px) {
+  }
+`;
+
 const Img = styled.img`
   margin-top: 7rem;
+  @media only screen and (max-width: 618px) {
+    width: 80%;
+  }
 `
 
 const Section1 = () => (
   <Container>
     <TextArea>
-      <Text
+      <Title
         theme={{
           color: '#363839',
           fontSize: '4rem',
@@ -40,8 +72,8 @@ const Section1 = () => (
         }}
       >
         Hexon
-      </Text>
-      <Text
+      </Title>
+      <Title
         theme={{
           color: '#363839',
           fontSize: '4rem',
@@ -50,11 +82,11 @@ const Section1 = () => (
         }}
       >
         Creative
-      </Text>
+      </Title>
     </TextArea>
     <Img src="static/img/mac.png" />
     <TextArea theme={{ margin: '16rem 0 0 0' }}>
-      <Text
+      <SubTitle
         theme={{
           color: '#fff',
           fontSize: '2.5rem',
@@ -63,42 +95,29 @@ const Section1 = () => (
         }}
       >
         Slick
-      </Text>
-      <Text
+      </SubTitle>
+      <SubTitle
         theme={{
           color: '#fff',
           fontSize: '2.5rem',
-          padding: '0 1rem 0 0',
           fontWeight: 'bold'
         }}
       >
         approach
-      </Text>
+      </SubTitle>
     </TextArea>
     <TextArea theme={{ margin: '2rem 0 0 0' }}>
-      <Text
+      <Desc
         theme={{
           color: '#FFC3D5',
           fontSize: '0.8rem',
-          padding: '0 1rem 0 0',
           fontWeight: 'lighter'
         }}
       >
-        We are Hexon Creative and we believe in building great products. What
-        drives is
-      </Text>
-    </TextArea>
-    <TextArea>
-      <Text
-        theme={{
-          color: '#FFC3D5',
-          fontSize: '0.8rem',
-          padding: '0 1rem 0 0',
-          fontWeight: 'lighter'
-        }}
-      >
-        constant challenge and non stop changing of our everyday jobs.
-      </Text>
+        We are Hexon Creative and we believe in building great products.
+        <br />
+        What drives is constant challenge and non stop changing of our everyday jobs.
+      </Desc>
     </TextArea>
   </Container>
 )

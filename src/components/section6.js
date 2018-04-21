@@ -6,11 +6,20 @@ const Wrapper = styled.div`
   padding: 7rem;
   text-align: center;
   background-color: #f2f2f2;
+  @media only screen and (max-width: 618px) {
+    padding: 7rem 2rem;
+  }
 `
 
 const Text = styled.div`
   font-size: 5rem;
   font-weight: lighter;
+  @media only screen and (max-width: 618px) {
+    font-size: 3.5rem;
+  }
+  @media only screen and (max-width: 320px) {
+    font-size: 3rem;
+  }
 `
 
 const Form = styled.form`

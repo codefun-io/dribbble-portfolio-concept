@@ -3,6 +3,12 @@ import styled from 'styled-components'
 
 const Container = styled.div`
   padding: 0 5rem;
+  @media only screen and (max-width: 618px) {
+    padding: 0 3rem;
+  }
+  @media only screen and (max-width: 320px) {
+    padding: 0 1rem;
+  }
 `
 
 const Navigation = styled.div`
