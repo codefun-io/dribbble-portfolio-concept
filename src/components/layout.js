@@ -1,7 +1,6 @@
 import React from 'react'
 import styled, { injectGlobal } from 'styled-components'
 
-import Nav from './nav'
 import Footer from './footer'
 
 injectGlobal`
@@ -29,7 +28,6 @@ const Wrap = styled.div`
 
 const withLayout = ComposedComponent => props => (
   <Wrap>
-    <Nav />
     <ComposedComponent />
     <Footer />
   </Wrap>
