@@ -6,10 +6,7 @@ const BannerGrid = styled.div`
   grid-template-columns: 3fr 1fr 100px;
   grid-template-rows: 100px minmax(300px, max-content) 50px;
 `
-const ButtonArea = styled.div`
-  grid-column: 3/3;
-  grid-row: 3/3;
-`
+
 const Banner = styled.div`
   background: #fff;
   border-radius: 15px;
@@ -32,11 +29,13 @@ const Text2 = styled.div`
   margin-top: 30px;
   display: grid;
   grid-template-columns: 1fr 3fr;
-  grid-template-rows: 10px;
+  grid-template-rows: 80px auto;
 `
 const Text3 = styled.div`
   color: #ff377c;
   margin-top: 30px;
+  grid-column: 2/2;
+  grid-row: 2;
 `
 const Text31 = styled.div`
   grid-column: 1/1;
@@ -44,9 +43,11 @@ const Text31 = styled.div`
   color: #ff377c;
 `
 const RectColor = styled.div`
-  min-width: 12px;
-  min-height: 12px;
-  color: #ff377c;
+  margin-top: 8px;
+  margin-left: 15px;
+  width: 38px;
+  height: 4px;
+  background-color: #ff377c;
 `
 const TextArea = styled.div`
   grid-column: 1/1;
@@ -57,16 +58,37 @@ const TextArea = styled.div`
 `
 const Bg = styled.div`
   background: url('/static/img/handphone.png');
-  grid-column: 2/2;
-  grid-row: 3;
-  width: 300px;
-  height: 100px;
+  width: 450px;
+  height: 400px;
+  position: absolute;
+  bottom: 0px;
+  right: -70px;
+  z-index: -1;
   background-size: cover;
+`
+const Button = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background: #f8f8f8;
+  box-shadow: 2px 2px 2px 2px rgba(20%, 20%, 20%, 0.2);
+  grid-column: ${props => props.data.column};
+`
+const ButtonArea = styled.div`
+  grid-column: 3/3;
+  grid-row: 3/3;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  display: grid;
 `
 
 export default props => {
   return (
     <Banner data={{ top: props.top }}>
+      <Bg />
       <BannerGrid>
         <TextArea>
           <Text1> Slick Beauty</Text1>
@@ -80,7 +102,10 @@ export default props => {
             <Text3>GET THE APP →</Text3>
           </Text2>
         </TextArea>
-        <ButtonArea> 按鈕</ButtonArea>
+        <ButtonArea>
+          <Button data={{ column: '1/1' }}> 左</Button>
+          <Button data={{ column: '2/2' }}> 右</Button>
+        </ButtonArea>
       </BannerGrid>
     </Banner>
   )
