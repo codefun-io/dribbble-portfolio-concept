@@ -7,7 +7,6 @@ const Container = styled.div`
   background-image: url(static/img/hexon-backgrond.svg);
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: left top;
   background-size: contain;
   overflow: hidden;
 `
