@@ -11,6 +11,7 @@ const Banner = styled.div`
   background: #fff;
   border-radius: 15px;
   width: 100%;
+  min-width: 400px;
   height: 440px;
   top: ${props => props.data.top}px;
   position: absolute;
@@ -36,6 +37,9 @@ const Text3 = styled.div`
   margin-top: 30px;
   grid-column: 2/2;
   grid-row: 2;
+  @media (max-width: 900px) {
+    margin-top: 60px;
+  }
 `
 const Text31 = styled.div`
   grid-column: 1/1;
@@ -65,6 +69,10 @@ const Bg = styled.div`
   right: -70px;
   z-index: -1;
   background-size: cover;
+  @media (max-width: 900px) {
+    width: 350px;
+    height: 300px;
+  }
 `
 const Button = styled.div`
   display: flex;
