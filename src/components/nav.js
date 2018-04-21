@@ -16,9 +16,10 @@ const Navigation = styled.div`
   margin-top: 2rem;
 `
 
-const NavLeft = styled.div`
+const NavLeft = styled.a`
   display: flex;
   align-items: center;
+  cursor: pointer;
 `
 
 const NavRight = styled.div`
@@ -38,9 +39,9 @@ const NavItem = styled.a`
 `
 
 const Logo = styled.img`
-  width: 2.2rem;
+  width: 2.5rem;
   height: 2.2rem;
-  margin-right: 0.8rem;
+  margin-right: 1rem;
 `
 
 const Text = styled.div`
@@ -54,7 +55,7 @@ const Nav = () => (
   <Container>
     <Navigation className="navigation">
       <NavLeft className="nav-left">
-        <Logo src="static/img/nav-logo.svg" />
+        <Logo src="static/img/nav-logo.png" />
         <Text theme={{ color: '#707272', fontSize: '1.3rem' }}>Hexon</Text>
       </NavLeft>
       <NavRight className="nav-right">
