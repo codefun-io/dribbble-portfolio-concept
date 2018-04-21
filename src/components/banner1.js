@@ -102,7 +102,7 @@ export default props => {
       <Bg />
       <BannerGrid>
         <TextArea>
-          <Text1> Slick Beauty</Text1>
+          <Text1> Banner 1</Text1>
           <Text2>
             <Text31>
               <RectColor />

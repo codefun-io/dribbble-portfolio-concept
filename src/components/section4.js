@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import Banner from './banner'
+import Scroller from './scroller'
 const Wrap = styled.div`
   display: grid;
   grid-template-columns: 1fr 3.5fr 1fr;
@@ -39,16 +40,34 @@ const Image = styled.div`
   height: 200px;
 `
 
-export default () => (
-  <Wrap>
-    <ItemLeft>
-      <Image data={{ image: '/static/img/phone.png' }} />
-    </ItemLeft>
-    <ItemRight>
-      <Image data={{ image: '/static/img/pc.png' }} />
-    </ItemRight>
-    <BannerWrap>
-      <Banner top={-70} />
-    </BannerWrap>
-  </Wrap>
-)
+class BannerX extends React.Component {
+  constructor(props) {
+    super(props)
+  }
+  handleBanner = data => {
+    console.log(data)
+  }
+  render() {
+    return (
+      <Wrap>
+        <ItemLeft>
+          <Image data={{ image: '/static/img/phone.png' }} />
+        </ItemLeft>
+        <ItemRight>
+          <Image data={{ image: '/static/img/pc.png' }} />
+        </ItemRight>
+        <BannerWrap>
+          <Scroller>
+            {result => {
+              //console.log(result)
+              return result.getCurrentBanner()
+              //<Banner top={-70} handleBanner={result.handleBanner} />
+            }}
+          </Scroller>
+        </BannerWrap>
+      </Wrap>
+    )
+  }
+}
+
+export default BannerX
