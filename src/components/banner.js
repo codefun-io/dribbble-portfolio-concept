@@ -103,8 +103,13 @@ export default props => {
           </Text2>
         </TextArea>
         <ButtonArea>
-          <Button data={{ column: '1/1' }}> 左</Button>
-          <Button data={{ column: '2/2' }}> 右</Button>
+          <Button data={{ column: '1/1' }}>
+            <a>{'<'}</a>
+          </Button>
+          <Button data={{ column: '2/2' }}>
+            {' '}
+            <a>{'>'}</a>
+          </Button>
         </ButtonArea>
       </BannerGrid>
     </Banner>
