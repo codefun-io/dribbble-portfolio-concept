@@ -6,14 +6,16 @@ const Warpper = styled.div`
   padding: 0 5rem;
 `
 
-const LogoArea = styled.div`
+const LogoArea = styled.a`
   display: flex;
   align-items: center;
   padding-top: 2rem;
+  cursor: pointer;
+  width: 100px;
 `
 
 const Logo = styled.img`
-  width: 2.2rem;
+  width: 2.5rem;
   height: 2.2rem;
   margin-right: 0.4rem;
 `
@@ -52,16 +54,29 @@ const Text = styled.div`
   font-weight: lighter;
 `
 
+const Link = styled.a`
+  color: ${props => props.theme && props.theme.color};
+  font-size: ${props => props.theme && props.theme.fontSize};
+  padding: ${props => props.theme && props.theme.padding};
+  font-weight: lighter;
+`
+
+const HideInSmall = styled.div`
+  @media only screen and (max-width: 618px) {
+    display: none;
+  }
+`
+
 const Footer = () => (
   <Warpper className="footer">
-    <LogoArea>
-      <Logo src="static/img/footer-logo.svg" />
+    <LogoArea className='logo-area'>
+      <Logo src="static/img/footer-logo.png" />
       <Text theme={{ color: '#D9D9D9', fontSize: '1.3rem' }}>Hexon</Text>
     </LogoArea>
     <Social>
-      <Icon src="static/img/facebook.png" />
-      <Icon src="static/img/dribbble.png" />
-      <Icon src="static/img/twitter.png" />
+      <Link><Icon src="static/img/facebook.png" /></Link>
+      <Link><Icon src="static/img/dribbble.png" /></Link>
+      <Link><Icon src="static/img/twitter.png" /></Link>
     </Social>
     <CopyRight>
       <Left>
@@ -74,12 +89,14 @@ const Footer = () => (
         >
           Hexon, 2016.
         </Text>
-        <Text theme={{ color: '#868686', fontSize: '0.9rem' }}>
-          Work rights belong to their respective owners
-        </Text>
+        <HideInSmall>
+          <Text theme={{ color: '#868686', fontSize: '0.9rem' }}>
+            Work rights belong to their respective owners
+          </Text>
+        </HideInSmall>
       </Left>
       <Right>
-        <Text
+        <Link
           theme={{
             color: '#AEAEAE',
             fontSize: '0.9rem',
@@ -87,8 +104,8 @@ const Footer = () => (
           }}
         >
           Legal
-        </Text>
-        <Text theme={{ color: '#AEAEAE', fontSize: '0.9rem' }}>Support</Text>
+        </Link>
+        <Link theme={{ color: '#AEAEAE', fontSize: '0.9rem' }}>Support</Link>
       </Right>
     </CopyRight>
   </Warpper>
