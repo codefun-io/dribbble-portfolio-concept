@@ -34,7 +34,7 @@ const Title = Text.extend`
   @media only screen and (max-width: 320px) {
     font-size: 2rem;
   }
-`;
+`
 
 const SubTitle = Text.extend`
   @media only screen and (max-width: 450px) {
@@ -43,15 +43,13 @@ const SubTitle = Text.extend`
   @media only screen and (max-width: 320px) {
     font-size: 1.5rem;
   }
-`;
+`
 
 const Desc = Text.extend`
-  @media only screen and (max-width: 450px) {
-    padding: 0 1.5rem;
-  }
-  @media only screen and (max-width: 320px) {
-  }
-`;
+  margin: 0 auto;
+  width: 60%;
+  text-align: center;
+`
 
 const Img = styled.img`
   margin-top: 7rem;
@@ -114,9 +112,8 @@ const Section1 = () => (
           fontWeight: 'lighter'
         }}
       >
-        We are Hexon Creative and we believe in building great products.
-        <br />
-        What drives is constant challenge and non stop changing of our everyday jobs.
+        We are Hexon Creative and we believe in building great products. What
+        drives is constant challenge and non stop changing of our everyday jobs.
       </Desc>
     </TextArea>
   </Container>
