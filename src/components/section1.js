@@ -7,7 +7,8 @@ const Container = styled.div`
   background-image: url(static/img/hexon-backgrond.svg);
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: contain;
+  background-position: center center;
+  background-size: cover;
   overflow: hidden;
 `
 
@@ -66,6 +67,12 @@ const Img = styled.img`
   }
 `
 
+const Test = styled.div`
+  width: 50%;
+  height: 0.1px;
+  box-shadow: 0px 10px 137px 27px rgba(0, 0, 0, 0.5);
+`
+
 const Section1 = () => (
   <Container className="section1">
     <Nav className="nav" />
@@ -92,7 +99,10 @@ const Section1 = () => (
           Creative
         </Title>
       </TextArea>
+
       <Img src="static/img/mac.png" />
+      <Test />
+
       <TextArea theme={{ margin: '14.5rem 0 0 0' }}>
         <SubTitle
           theme={{
