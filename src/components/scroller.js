@@ -9,9 +9,14 @@ var point = 0
 
 const HorizontalBlock = styled.div`
   width: 100%;
-  height: 100vh;
+  height: 450px;
+  margin-top: -70px;
   position: absolute;
-  z-index: 2;
+  z-index: 3;
+  border-radius: 15px;
+  box-shadow: 4px 4px 12px 4px rgba(20%, 20%, 40%, 0.5);
+  background: #fff;
+  overflow: hidden;
 `
 
 const PassRight = keyframes`
@@ -69,8 +74,8 @@ class Scoller extends Component {
           this.state.point + 1 >= dataBanner.length
             ? 0
             : (this.state.point + 1) % dataBanner.length
-        console.log(point0)
-        console.log(point1)
+        // console.log(point0)
+        // console.log(point1)
         let Banner0 = dataBanner[point0]
         let Banner1 = dataBanner[this.state.point]
         let Banner2 = dataBanner[point1]
@@ -80,19 +85,19 @@ class Scoller extends Component {
           PassWay: this.state.PassWay,
           AnimLeft: this.state.AnimLeft
         }
-        console.log(this.state.PassWay)
+        //console.log(this.state.PassWay)
         return (
           <HorizontalBlock>
             {this.state.flag === true ? (
               <Carousel data={config}>
                 <Animation data={{ PassWay: this.state.PassWay }}>
-                  <Banner1 top={-70} handleBanner={data.handleBanner} />
+                  <Banner1 handleBanner={data.handleBanner} />
                 </Animation>
               </Carousel>
             ) : (
               <Carousel2 data={config}>
                 <Animation data={{ PassWay: this.state.PassWay }}>
-                  <Banner1 top={-70} handleBanner={data.handleBanner} />
+                  <Banner1 handleBanner={data.handleBanner} />
                 </Animation>
               </Carousel2>
             )}

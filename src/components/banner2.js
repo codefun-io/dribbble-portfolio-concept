@@ -9,8 +9,6 @@ const BannerGrid = styled.div`
 
 const Banner = styled.div`
   background: #fff;
-  border-radius: 15px;
-  box-shadow: 4px 4px 12px 4px rgba(20%, 20%, 40%, 0.5);
 
   width: 100%;
   min-width: 400px;

@@ -17,6 +17,7 @@ const BannerWrap = styled.div`
   grid-column: 2/3;
   grid-row: 2;
 `
+
 const ItemLeft = styled.div`
   grid-column: 1/1;
   grid-row: 2;
