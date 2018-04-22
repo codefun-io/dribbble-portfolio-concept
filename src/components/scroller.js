@@ -29,7 +29,15 @@ const PassLeft = keyframes`
  
 `
 const Animation = styled.div`
+  position: absolute;
+  width: 100%;
   animation: ${props => props.data.PassWay} 0.5s linear;
+`
+const WrapCombine0 = styled.div`
+  transform: translateX(300%);
+`
+const WrapCombine1 = styled.div`
+  transform: translateX(-300%);
 `
 
 const Carousel = styled.div``
@@ -91,13 +99,25 @@ class Scoller extends Component {
             {this.state.flag === true ? (
               <Carousel data={config}>
                 <Animation data={{ PassWay: this.state.PassWay }}>
+                  <WrapCombine0>
+                    <Banner1 handleBanner={data.handleBanner} />
+                  </WrapCombine0>
                   <Banner1 handleBanner={data.handleBanner} />
+                  <WrapCombine1>
+                    <Banner2 handleBanner={data.handleBanner} />
+                  </WrapCombine1>
                 </Animation>
               </Carousel>
             ) : (
               <Carousel2 data={config}>
                 <Animation data={{ PassWay: this.state.PassWay }}>
+                  <WrapCombine0>
+                    <Banner0 handleBanner={data.handleBanner} />
+                  </WrapCombine0>
                   <Banner1 handleBanner={data.handleBanner} />
+                  <WrapCombine1>
+                    <Banner2 handleBanner={data.handleBanner} />
+                  </WrapCombine1>
                 </Animation>
               </Carousel2>
             )}
