@@ -18,6 +18,15 @@ const Main = styled.div`
   justify-content: center;
   align-items: center;
   padding: 9rem 0 11rem 0;
+  @media only screen and (max-width: 1024px) {
+    padding-bottom: 8rem;
+  }
+  @media only screen and (max-width: 768px) {
+    padding-bottom: 5rem;
+  }
+  @media only screen and (max-width: 425px) {
+    padding-bottom: 4rem;
+  }
 `
 
 const TextArea = styled.div`
@@ -57,6 +66,9 @@ const Desc = Text.extend`
   margin: 0 auto;
   width: 35rem;
   text-align: center;
+  @media only screen and (max-width: 650px) {
+    width: 80%;
+  }
 `
 
 const Img = styled.img`
@@ -67,7 +79,7 @@ const Img = styled.img`
   }
 `
 
-const Test = styled.div`
+const Shadow = styled.div`
   width: 50%;
   height: 0.1px;
   box-shadow: 0px 10px 137px 27px rgba(0, 0, 0, 0.5);
@@ -101,7 +113,7 @@ const Section1 = () => (
       </TextArea>
 
       <Img src="static/img/mac.png" />
-      <Test />
+      <Shadow />
 
       <TextArea theme={{ margin: '14.5rem 0 0 0' }}>
         <SubTitle
@@ -124,10 +136,11 @@ const Section1 = () => (
           approach
         </SubTitle>
       </TextArea>
+
       <TextArea theme={{ margin: '1.5rem 0 0 0' }}>
         <Desc
           theme={{
-            color: '#FFC3D5',
+            color: 'rgba(255, 255, 255, 0.8)',
             fontSize: '0.96rem',
             fontWeight: 'lighter'
           }}

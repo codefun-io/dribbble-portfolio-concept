@@ -4,6 +4,9 @@ import styled from 'styled-components'
 const Warpper = styled.div`
   background-color: #606060;
   padding: 0 5rem;
+  @media only screen and (max-width: 320px) {
+    padding: 0 3rem;
+  }
 `
 
 const LogoArea = styled.a`
@@ -69,14 +72,20 @@ const HideInSmall = styled.div`
 
 const Footer = () => (
   <Warpper className="footer">
-    <LogoArea className='logo-area'>
+    <LogoArea className="logo-area">
       <Logo src="static/img/footer-logo.png" />
       <Text theme={{ color: '#D9D9D9', fontSize: '1.3rem' }}>Hexon</Text>
     </LogoArea>
     <Social>
-      <Link><Icon src="static/img/facebook.png" /></Link>
-      <Link><Icon src="static/img/dribbble.png" /></Link>
-      <Link><Icon src="static/img/twitter.png" /></Link>
+      <Link>
+        <Icon src="static/img/facebook.png" />
+      </Link>
+      <Link>
+        <Icon src="static/img/dribbble.png" />
+      </Link>
+      <Link>
+        <Icon src="static/img/twitter.png" />
+      </Link>
     </Social>
     <CopyRight>
       <Left>
