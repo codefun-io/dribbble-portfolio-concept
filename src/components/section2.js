@@ -2,63 +2,38 @@ import React, { Component } from 'react'
 import styled from 'styled-components'
 
 const Wrap = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1.5fr 1fr;
-  grid-template-rows: 40px 60px 1fr;
-  min-height: 300px;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  padding-top: 50px;
+  align-items: center;
+  padding: 5.5rem 0 8.5rem 0;
 `
 
 const Titleh4 = styled.div`
-  font-size: 0.5em;
+  font-size: 0.7em;
   letter-spacing: 5px;
-  grid-column: 2/3;
-  grid-row: 1;
-  display: flex;
-  justify-content: center;
-  flex: 1;
   color: #bfbfbf;
-  font-weight: 900;
+  font-weight: bold;
 `
+
 const WrapTitle2 = styled.div`
-  grid-column: 2/3;
   font-size: 4em;
-  grid-row: 2;
   letter-spacing: 4px;
-  display: flex;
-  justify-content: center;
-  white-space: nowrap;
-  flex: 1;
-  @media (max-width: 1000px) {
-    font-size: 3em;
-  }
-  @media (max-width: 850px) {
+  font-weight: lighter;
+  margin-top: 1.8rem;
+  @media (max-width: 425px) {
     font-size: 2.5em;
-  }
-  @media (max-width: 720px) {
-    font-size: 1.5em;
   }
 `
 
 const Titleh3 = styled.div`
-  grid-column: 2/3;
-  font-size: 0.9em;
-  grid-row: 3;
-
-  justify-content: center;
-  flex: 1;
+  width: 31rem;
   text-align: center;
+  margin-top: 3.2rem;
+  font-size: 0.9em;
   color: #8e8e8e;
-
-  @media (max-width: 1000px) {
-    font-size: 0.8em;
-  }
-  @media (max-width: 850px) {
-    font-size: 0.7em;
-  }
-  @media (max-width: 720px) {
-    font-size: 0.6em;
+  @media (max-width: 425px) {
+    padding: 0 4rem;
   }
 `
 

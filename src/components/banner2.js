@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const BannerGrid = styled.div`
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 3fr 100px;
   grid-template-rows: 80px minmax(300px, max-content) 50px;
 `
 

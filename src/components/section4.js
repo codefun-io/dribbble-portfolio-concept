@@ -1,81 +1,100 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-import Banner from './banner'
-import Scroller from './scroller'
+
 const Wrap = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 3.5fr 1fr;
-  grid-template-rows: 30px 1fr 30px;
-  min-height: 368px;
-  background: url('/static/img/bg.png');
+  display: flex;
+  flex-direction: row;
   justify-content: center;
-  margin-bottom: 60px;
-  margin-top: 20px;
-  @media (max-width: 500px) {
-    margin-top: 60px;
-  }
-`
-const BannerWrap = styled.div`
-  position: relative;
-  grid-column: 2/3;
-  grid-row: 2;
+  align-items: center;
+  margin: 0 auto;
+  padding: 4rem 0 10rem 0;
   min-width: 400px;
-`
-
-const ItemLeft = styled.div`
-  grid-column: 1/1;
-  grid-row: 2;
-  overflow: hidden;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-`
-const ItemRight = styled.div`
-  grid-column: 3/3;
-  grid-row: 2;
-  overflow: hidden;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-`
-const Image = styled.div`
-  background: url(${props => props.data.image});
-  background-size: cover;
-  width: 32rem;
-  height: 200px;
-  @media (max-width: 570px) {
-    background: url();
+  @media (max-width: 700px) {
+    flex-direction: column;
   }
 `
 
-class BannerX extends React.Component {
-  constructor(props) {
-    super(props)
+const NumWrap = styled.div`
+  margin-top: 1.4rem;
+  margin-right: 1rem;
+  align-self: baseline;
+  @media (max-width: 700px) {
+    align-self: center;
   }
-  handleBanner = data => {
-    console.log(data)
-  }
-  render() {
-    return (
-      <Wrap>
-        <ItemLeft>
-          <Image data={{ image: '/static/img/phone.png' }} />
-        </ItemLeft>
-        <ItemRight>
-          <Image data={{ image: '/static/img/pc.png' }} />
-        </ItemRight>
-        <BannerWrap>
-          <Scroller>
-            {result => {
-              //console.log(result)
-              return result.getCurrentBanner()
-              //<Banner top={-70} handleBanner={result.handleBanner} />
-            }}
-          </Scroller>
-        </BannerWrap>
-      </Wrap>
-    )
-  }
-}
+`
 
-export default BannerX
+const Num = styled.div`
+  color: #ff377c;
+  font-size: 4rem;
+  font-weight: lighter;
+`
+
+const Middle = styled.div`
+  color: #b8b9b9;
+  width: 260px;
+  margin-right: 4rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.2px;
+  @media (max-width: 700px) {
+    text-align: center;
+    margin-right: 0rem;
+    margin-top: 3rem;
+  }
+`
+
+const Right = styled.div`
+  color: #b8b9b9;
+  width: 250px;
+  font-size: 0.9rem;
+  letter-spacing: 0.2px;
+  @media (max-width: 700px) {
+    text-align: center;
+    margin-top: 2rem;
+  }
+`
+
+const ButtonWrap = styled.div`
+  margin-top: 2rem;
+`
+
+const A = styled.a`
+  color: #4f4f4f;
+`
+
+const Button = styled.div`
+  font-size: 0.9rem;
+  border: 1px solid #e7e7e7;
+  width: 10rem;
+  height: 3rem;
+  line-height: 3rem;
+  text-align: center;
+  font-weight: bold;
+  @media (max-width: 700px) {
+    width: initial;
+  }
+`
+
+export default () => (
+  <Wrap>
+    <NumWrap>
+      <Num>02</Num>
+    </NumWrap>
+    <Middle>
+      Etsy cornhole bicycle rights, fingerstache marfa slow-carb single-origin
+      coffee bagel wayfarers shoreditch iPhone man bun man braid. Chambray
+      kickstarter locavore, god hammock helvetica selfies asymmertircal.
+      Mumbelecore small batch selfies hashtag so photo booth vinyl what the
+      Thailand video
+    </Middle>
+    <Right>
+      Tacos gingerstache photo booth freegan, sustainable leggins everyday carry
+      street art farm-to-table. Mumblecore fanny pack intelligentsia man braid,
+      shabby chic.
+      <ButtonWrap>
+        <A>
+          <Button>SEE MORE</Button>
+        </A>
+      </ButtonWrap>
+    </Right>
+  </Wrap>
+)

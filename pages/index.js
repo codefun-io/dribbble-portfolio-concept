@@ -8,18 +8,17 @@ import Section4 from '../src/components/section4'
 
 import Section6 from '../src/components/section6'
 import Cat from '../src/components/cat'
-import { Hero } from '../src/components/hero'
+import Section5 from '../src/components/section5'
 import Gallery from '../src/components/gallery'
 
 const Index = () => (
   <div className="main-content">
     <Section1 />
     <Section2 />
-
-    <Section4 />
     <Section3 />
+    <Section4 />
     <Gallery />
-    <Hero />
+    <Section5 />
     <Cat />
     <Section6 />
   </div>

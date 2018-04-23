@@ -10,6 +10,8 @@ injectGlobal`
 
   body {
     font-family: 'Nanum Gothic', sans-serif;
+    font-weight: normal !important;
+    font-size: 16px !important;
   }
 
   a {
