@@ -11,11 +11,15 @@ const Wrap = styled.div`
   justify-content: center;
   margin-bottom: 60px;
   margin-top: 20px;
+  @media (max-width: 500px) {
+    margin-top: 60px;
+  }
 `
 const BannerWrap = styled.div`
   position: relative;
   grid-column: 2/3;
   grid-row: 2;
+  min-width: 400px;
 `
 
 const ItemLeft = styled.div`
@@ -37,8 +41,11 @@ const ItemRight = styled.div`
 const Image = styled.div`
   background: url(${props => props.data.image});
   background-size: cover;
-  width: 200px;
+  width: 32rem;
   height: 200px;
+  @media (max-width: 570px) {
+    background: url();
+  }
 `
 
 class BannerX extends React.Component {

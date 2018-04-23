@@ -3,13 +3,12 @@ import styled from 'styled-components'
 
 const BannerGrid = styled.div`
   display: grid;
-  grid-template-columns: 3fr 1fr 100px;
-  grid-template-rows: 100px minmax(300px, max-content) 50px;
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: 80px minmax(300px, max-content) 50px;
 `
 
 const Banner = styled.div`
   background: #fff;
-
   width: 100%;
   min-width: 400px;
   height: 440px;
@@ -20,32 +19,29 @@ const Banner = styled.div`
   transform: translate(0px, 0px);
 `
 const Text1 = styled.div`
-  grid-column: 2/3;
-  grid-row: 1;
+  margin-left: 30px;
   font-size: 3em;
-  white-space: nowrap;
+  @media (max-width: 400px) {
+    font-size: 1.5em;
+  }
 `
 const Text2 = styled.div`
-  grid-column: 2/2;
-  grid-row: 2;
-  margin-top: 30px;
   display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-template-rows: 80px auto;
+  grid-template-columns: 20px 50px 1fr;
+  grid-template-rows: 40px minmax(300px, max-content);
 `
 const Text3 = styled.div`
   color: #ff377c;
   margin-top: 30px;
-  grid-column: 2/2;
-  grid-row: 2;
-  @media (max-width: 900px) {
-    margin-top: 60px;
-  }
 `
 const Text31 = styled.div`
-  grid-column: 1/1;
-  grid-row: 1;
   color: #ff377c;
+  grid-column: 1;
+  grid-row: 2;
+`
+const Text32 = styled.div`
+  grid-column: 3;
+  grid-row: 2;
 `
 const RectColor = styled.div`
   margin-top: 8px;
@@ -56,13 +52,12 @@ const RectColor = styled.div`
 `
 const TextArea = styled.div`
   grid-column: 1/1;
-  grid-row: 2;
-  display: grid;
-  grid-template-columns: 20px 1fr;
-  grid-template-rows: 30px auto;
+  grid-row: 2/4;
+  display: flex;
+  flex-direction: column;
 `
 const Bg = styled.div`
-  background: url('/static/img/handphone.png');
+  background: url('/static/img/phone1.png');
   width: 450px;
   height: 400px;
   position: absolute;
@@ -88,9 +83,9 @@ const Button = styled.a`
   grid-column: ${props => props.data.column};
 `
 const ButtonArea = styled.div`
-  grid-column: 3/3;
-  grid-row: 3/3;
-  grid-template-columns: 1fr 1fr;
+  grid-column: 2;
+  grid-row: 3;
+  grid-template-columns: 50px 50px;
   grid-template-rows: 1fr;
   display: grid;
 `
@@ -106,10 +101,12 @@ export default props => {
             <Text31>
               <RectColor />
             </Text31>
-            We've been working on this awesomesauce app that gives you balanced
-            pallete colour from any image you upload. It's super useful for all
-            sorts of visual artists out there.
-            <Text3>GET THE APP →</Text3>
+            <Text32>
+              We've been working on this awesomesauce app that gives you
+              balanced pallete colour from any image you upload. It's super
+              useful for all sorts of visual artists out there.
+              <Text3>GET THE APP →</Text3>
+            </Text32>
           </Text2>
         </TextArea>
         <ButtonArea>
