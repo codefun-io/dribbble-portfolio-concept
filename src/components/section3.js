@@ -1,67 +1,74 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-
+import Banner from './banner'
+import Scroller from './scroller'
 const Wrap = styled.div`
   display: grid;
   grid-template-columns: 1fr 3.5fr 1fr;
-  grid-template-rows: 40px 60px 1fr;
-  min-height: 300px;
+  grid-template-rows: 30px 1fr 30px;
+  min-height: 368px;
+  background: url('/static/img/bg.png');
   justify-content: center;
-  padding-top: 50px;
-`
-
-const WrapInner = styled.div`
-  grid-column: 2/3;
-  grid-row: 1;
-  display: grid;
-  grid-template-columns: 1fr 30px 3fr 3fr;
-  grid-template-rows: auto;
-`
-
-const Num = styled.div`
-  color: #ff377c;
-  font-size: 3em;
+  margin-bottom: 60px;
   margin-top: 20px;
-
+`
+const BannerWrap = styled.div`
+  position: relative;
   grid-column: 2/3;
-  grid-row: 3;
+  grid-row: 2;
 `
 
-const Titleh3 = styled.div`
-  grid-column: ${props => props.data.column};
-  font-size: 0.9em;
-  grid-row: 3;
+const ItemLeft = styled.div`
+  grid-column: 1/1;
+  grid-row: 2;
+  overflow: hidden;
   justify-content: center;
-  flex: 1;
-  padding-left: 20px;
-  color: #8e8e8e;
-
-  @media (max-width: 1000px) {
-    font-size: 0.8em;
-  }
-  @media (max-width: 850px) {
-    font-size: 0.7em;
-  }
-  @media (max-width: 720px) {
-    font-size: 0.6em;
-  }
+  align-items: center;
+  display: flex;
+`
+const ItemRight = styled.div`
+  grid-column: 3/3;
+  grid-row: 2;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+`
+const Image = styled.div`
+  background: url(${props => props.data.image});
+  background-size: cover;
+  width: 200px;
+  height: 200px;
 `
 
-export default () => (
-  <Wrap>
-    <WrapInner>
-      <Num>02</Num>
+class BannerX extends React.Component {
+  constructor(props) {
+    super(props)
+  }
+  handleBanner = data => {
+    console.log(data)
+  }
+  render() {
+    return (
+      <Wrap>
+        <ItemLeft>
+          <Image data={{ image: '/static/img/phone.png' }} />
+        </ItemLeft>
+        <ItemRight>
+          <Image data={{ image: '/static/img/pc.png' }} />
+        </ItemRight>
+        <BannerWrap>
+          <Scroller>
+            {result => {
+              //console.log(result)
+              return result.getCurrentBanner()
+              //<Banner top={-70} handleBanner={result.handleBanner} />
+            }}
+          </Scroller>
+        </BannerWrap>
+      </Wrap>
+    )
+  }
+}
 
-      <Titleh3 data={{ column: '3/4' }}>
-        But it's just using an old paradigm to describe something new, and when
-        you do that, you're tying the idea to all the weight and baggage that
-        accompanied the old. You're taking the lazy option
-      </Titleh3>
-      <Titleh3 data={{ column: '4/4' }}>
-        But it's just using an old paradigm to describe something new, and when
-        you do that, you're tying the idea to all the weight and baggage that
-        accompanied the old. You're taking the lazy option
-      </Titleh3>
-    </WrapInner>
-  </Wrap>
-)
+export default BannerX
