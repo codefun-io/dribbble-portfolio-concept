@@ -17,11 +17,11 @@ export default class MyDocument extends Document {
         <Head>
           <title>Hexon</title>
           {this.props.styleTags}
+          <meta content="width=device-width,initial-scale=1" name="viewport" />
           <link
-            href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Montserrat|Archivo|Anton|Archivo+Black|Open+Sans:300"
+            href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700"
             rel="stylesheet"
           />
-          <meta content="width=device-width,initial-scale=1" name="viewport" />
           <link
             rel="stylesheet"
             href="https://fonts.googleapis.com/icon?family=Material+Icons"

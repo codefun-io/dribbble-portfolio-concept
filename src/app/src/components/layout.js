@@ -9,7 +9,7 @@ injectGlobal`
   }
 
   body {
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
     font-weight: normal !important;
     font-size: 16px !important;
   }
