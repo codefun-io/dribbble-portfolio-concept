@@ -305,7 +305,7 @@
             <g id="Group" transform="translate(690.000000, 902.000000)">
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-1"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M175.695063,2178.5 L222.983738,2260.40639 L175.695063,2342.31278 L81.1177128,2342.31278 L33.8290377,2260.40639 L81.1177128,2178.5 L175.695063,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M175.695063,2178.5 L222.983738,2260.40639 L175.695063,2342.31278 L81.1177128,2342.31278 L33.8290377,2260.40639 L81.1177128,2178.5 L175.695063,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(128.406388, 948.406388) rotate(30.000000) translate(-128.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
@@ -341,27 +341,27 @@
                 </g>
                 <g id="Polygon" transform="translate(128.406388, 1440.406388) rotate(30.000000) translate(-128.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-10"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M128.406388,1345.82904 L210.312776,1393.11771 L210.312776,1487.69506 L128.406388,1534.98374 L46.5,1487.69506 L46.5,1393.11771 L128.406388,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M128.406388,1345.82904 L210.312776,1393.11771 L210.312776,1487.69506 L128.406388,1534.98374 L46.5,1487.69506 L46.5,1393.11771 L128.406388,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(128.406388, 1604.406388) rotate(30.000000) translate(-128.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-11"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M128.406388,1509.82904 L210.312776,1557.11771 L210.312776,1651.69506 L128.406388,1698.98374 L46.5,1651.69506 L46.5,1557.11771 L128.406388,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M128.406388,1509.82904 L210.312776,1557.11771 L210.312776,1651.69506 L128.406388,1698.98374 L46.5,1651.69506 L46.5,1557.11771 L128.406388,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(128.406388, 1768.406388) rotate(30.000000) translate(-128.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-12"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M128.406388,1673.82904 L210.312776,1721.11771 L210.312776,1815.69506 L128.406388,1862.98374 L46.5,1815.69506 L46.5,1721.11771 L128.406388,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M128.406388,1673.82904 L210.312776,1721.11771 L210.312776,1815.69506 L128.406388,1862.98374 L46.5,1815.69506 L46.5,1721.11771 L128.406388,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-13"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M175.695063,1850.5 L222.983738,1932.40639 L175.695063,2014.31278 L81.1177128,2014.31278 L33.8290377,1932.40639 L81.1177128,1850.5 L175.695063,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M175.695063,1850.5 L222.983738,1932.40639 L175.695063,2014.31278 L81.1177128,2014.31278 L33.8290377,1932.40639 L81.1177128,1850.5 L175.695063,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-14"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M175.695063,2014.5 L222.983738,2096.40639 L175.695063,2178.31278 L81.1177128,2178.31278 L33.8290377,2096.40639 L81.1177128,2014.5 L175.695063,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M175.695063,2014.5 L222.983738,2096.40639 L175.695063,2178.31278 L81.1177128,2178.31278 L33.8290377,2096.40639 L81.1177128,2014.5 L175.695063,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-15"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M317.695063,2260.5 L364.983738,2342.40639 L317.695063,2424.31278 L223.117713,2424.31278 L175.829038,2342.40639 L223.117713,2260.5 L317.695063,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M317.695063,2260.5 L364.983738,2342.40639 L317.695063,2424.31278 L223.117713,2424.31278 L175.829038,2342.40639 L223.117713,2260.5 L317.695063,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(270.406388, 1030.406388) rotate(30.000000) translate(-270.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
@@ -393,31 +393,31 @@
                 </g>
                 <g id="Polygon" transform="translate(270.406388, 1358.406388) rotate(30.000000) translate(-270.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-23"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M270.406388,1263.82904 L352.312776,1311.11771 L352.312776,1405.69506 L270.406388,1452.98374 L188.5,1405.69506 L188.5,1311.11771 L270.406388,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M270.406388,1263.82904 L352.312776,1311.11771 L352.312776,1405.69506 L270.406388,1452.98374 L188.5,1405.69506 L188.5,1311.11771 L270.406388,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(270.406388, 1522.406388) rotate(30.000000) translate(-270.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-24"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M270.406388,1427.82904 L352.312776,1475.11771 L352.312776,1569.69506 L270.406388,1616.98374 L188.5,1569.69506 L188.5,1475.11771 L270.406388,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M270.406388,1427.82904 L352.312776,1475.11771 L352.312776,1569.69506 L270.406388,1616.98374 L188.5,1569.69506 L188.5,1475.11771 L270.406388,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(270.406388, 1686.406388) rotate(30.000000) translate(-270.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-25"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M270.406388,1591.82904 L352.312776,1639.11771 L352.312776,1733.69506 L270.406388,1780.98374 L188.5,1733.69506 L188.5,1639.11771 L270.406388,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M270.406388,1591.82904 L352.312776,1639.11771 L352.312776,1733.69506 L270.406388,1780.98374 L188.5,1733.69506 L188.5,1639.11771 L270.406388,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-26"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M317.695063,1768.5 L364.983738,1850.40639 L317.695063,1932.31278 L223.117713,1932.31278 L175.829038,1850.40639 L223.117713,1768.5 L317.695063,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M317.695063,1768.5 L364.983738,1850.40639 L317.695063,1932.31278 L223.117713,1932.31278 L175.829038,1850.40639 L223.117713,1768.5 L317.695063,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-27"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M317.695063,1932.5 L364.983738,2014.40639 L317.695063,2096.31278 L223.117713,2096.31278 L175.829038,2014.40639 L223.117713,1932.5 L317.695063,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M317.695063,1932.5 L364.983738,2014.40639 L317.695063,2096.31278 L223.117713,2096.31278 L175.829038,2014.40639 L223.117713,1932.5 L317.695063,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-28"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M317.695063,2096.5 L364.983738,2178.40639 L317.695063,2260.31278 L223.117713,2260.31278 L175.829038,2178.40639 L223.117713,2096.5 L317.695063,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M317.695063,2096.5 L364.983738,2178.40639 L317.695063,2260.31278 L223.117713,2260.31278 L175.829038,2178.40639 L223.117713,2096.5 L317.695063,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-29"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M459.695063,2178.5 L506.983738,2260.40639 L459.695063,2342.31278 L365.117713,2342.31278 L317.829038,2260.40639 L365.117713,2178.5 L459.695063,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M459.695063,2178.5 L506.983738,2260.40639 L459.695063,2342.31278 L365.117713,2342.31278 L317.829038,2260.40639 L365.117713,2178.5 L459.695063,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(412.406388, 948.406388) rotate(30.000000) translate(-412.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-30"></use>
@@ -449,31 +449,31 @@
                 </g>
                 <g id="Polygon" transform="translate(412.406388, 1276.406388) rotate(30.000000) translate(-412.406388, -1276.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
-                    <path stroke="#EBEBEB" stroke-width="1" d="M412.406388,1181.82904 L494.312776,1229.11771 L494.312776,1323.69506 L412.406388,1370.98374 L330.5,1323.69506 L330.5,1229.11771 L412.406388,1181.82904 Z"></path>
+                    <path stroke-opacity="0.8" stroke="#EBEBEB" stroke-width="1" d="M412.406388,1181.82904 L494.312776,1229.11771 L494.312776,1323.69506 L412.406388,1370.98374 L330.5,1323.69506 L330.5,1229.11771 L412.406388,1181.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(412.406388, 1440.406388) rotate(30.000000) translate(-412.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-38"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M412.406388,1345.82904 L494.312776,1393.11771 L494.312776,1487.69506 L412.406388,1534.98374 L330.5,1487.69506 L330.5,1393.11771 L412.406388,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M412.406388,1345.82904 L494.312776,1393.11771 L494.312776,1487.69506 L412.406388,1534.98374 L330.5,1487.69506 L330.5,1393.11771 L412.406388,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(412.406388, 1604.406388) rotate(30.000000) translate(-412.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-39"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M412.406388,1509.82904 L494.312776,1557.11771 L494.312776,1651.69506 L412.406388,1698.98374 L330.5,1651.69506 L330.5,1557.11771 L412.406388,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M412.406388,1509.82904 L494.312776,1557.11771 L494.312776,1651.69506 L412.406388,1698.98374 L330.5,1651.69506 L330.5,1557.11771 L412.406388,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(412.406388, 1768.406388) rotate(30.000000) translate(-412.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-40"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M412.406388,1673.82904 L494.312776,1721.11771 L494.312776,1815.69506 L412.406388,1862.98374 L330.5,1815.69506 L330.5,1721.11771 L412.406388,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M412.406388,1673.82904 L494.312776,1721.11771 L494.312776,1815.69506 L412.406388,1862.98374 L330.5,1815.69506 L330.5,1721.11771 L412.406388,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-41"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M459.695063,1850.5 L506.983738,1932.40639 L459.695063,2014.31278 L365.117713,2014.31278 L317.829038,1932.40639 L365.117713,1850.5 L459.695063,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M459.695063,1850.5 L506.983738,1932.40639 L459.695063,2014.31278 L365.117713,2014.31278 L317.829038,1932.40639 L365.117713,1850.5 L459.695063,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-42"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M459.695063,2014.5 L506.983738,2096.40639 L459.695063,2178.31278 L365.117713,2178.31278 L317.829038,2096.40639 L365.117713,2014.5 L459.695063,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M459.695063,2014.5 L506.983738,2096.40639 L459.695063,2178.31278 L365.117713,2178.31278 L317.829038,2096.40639 L365.117713,2014.5 L459.695063,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-43"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M601.695063,2096.5 L648.983738,2178.40639 L601.695063,2260.31278 L507.117713,2260.31278 L459.829038,2178.40639 L507.117713,2096.5 L601.695063,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M601.695063,2096.5 L648.983738,2178.40639 L601.695063,2260.31278 L507.117713,2260.31278 L459.829038,2178.40639 L507.117713,2096.5 L601.695063,2096.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(554.406388, 866.406388) rotate(30.000000) translate(-554.406388, -866.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
@@ -505,27 +505,27 @@
                 </g>
                 <g id="Polygon" transform="translate(554.406388, 1358.406388) rotate(30.000000) translate(-554.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-51"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M554.406388,1263.82904 L636.312776,1311.11771 L636.312776,1405.69506 L554.406388,1452.98374 L472.5,1405.69506 L472.5,1311.11771 L554.406388,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M554.406388,1263.82904 L636.312776,1311.11771 L636.312776,1405.69506 L554.406388,1452.98374 L472.5,1405.69506 L472.5,1311.11771 L554.406388,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(554.406388, 1522.406388) rotate(30.000000) translate(-554.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-52"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M554.406388,1427.82904 L636.312776,1475.11771 L636.312776,1569.69506 L554.406388,1616.98374 L472.5,1569.69506 L472.5,1475.11771 L554.406388,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M554.406388,1427.82904 L636.312776,1475.11771 L636.312776,1569.69506 L554.406388,1616.98374 L472.5,1569.69506 L472.5,1475.11771 L554.406388,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(554.406388, 1686.406388) rotate(30.000000) translate(-554.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-53"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M554.406388,1591.82904 L636.312776,1639.11771 L636.312776,1733.69506 L554.406388,1780.98374 L472.5,1733.69506 L472.5,1639.11771 L554.406388,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M554.406388,1591.82904 L636.312776,1639.11771 L636.312776,1733.69506 L554.406388,1780.98374 L472.5,1733.69506 L472.5,1639.11771 L554.406388,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-54"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M601.695063,1768.5 L648.983738,1850.40639 L601.695063,1932.31278 L507.117713,1932.31278 L459.829038,1850.40639 L507.117713,1768.5 L601.695063,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M601.695063,1768.5 L648.983738,1850.40639 L601.695063,1932.31278 L507.117713,1932.31278 L459.829038,1850.40639 L507.117713,1768.5 L601.695063,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-55"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M601.695063,1932.5 L648.983738,2014.40639 L601.695063,2096.31278 L507.117713,2096.31278 L459.829038,2014.40639 L507.117713,1932.5 L601.695063,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M601.695063,1932.5 L648.983738,2014.40639 L601.695063,2096.31278 L507.117713,2096.31278 L459.829038,2014.40639 L507.117713,1932.5 L601.695063,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-56"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M743.695063,2178.5 L790.983738,2260.40639 L743.695063,2342.31278 L649.117713,2342.31278 L601.829038,2260.40639 L649.117713,2178.5 L743.695063,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,2178.5 L790.983738,2260.40639 L743.695063,2342.31278 L649.117713,2342.31278 L601.829038,2260.40639 L649.117713,2178.5 L743.695063,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(696.406388, 948.406388) rotate(30.000000) translate(-696.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
@@ -533,7 +533,7 @@
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-58"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M743.695063,1030.5 L790.983738,1112.40639 L743.695063,1194.31278 L649.117713,1194.31278 L601.829038,1112.40639 L649.117713,1030.5 L743.695063,1030.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,1030.5 L790.983738,1112.40639 L743.695063,1194.31278 L649.117713,1194.31278 L601.829038,1112.40639 L649.117713,1030.5 L743.695063,1030.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(696.406388, 128.406388) rotate(30.000000) translate(-696.406388, -128.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
@@ -557,31 +557,31 @@
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-64"></use>
-                    <path stroke="#EBEBEB" stroke-width="1" d="M743.695063,1194.5 L790.983738,1276.40639 L743.695063,1358.31278 L649.117713,1358.31278 L601.829038,1276.40639 L649.117713,1194.5 L743.695063,1194.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,1194.5 L790.983738,1276.40639 L743.695063,1358.31278 L649.117713,1358.31278 L601.829038,1276.40639 L649.117713,1194.5 L743.695063,1194.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-65"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M743.695063,1358.5 L790.983738,1440.40639 L743.695063,1522.31278 L649.117713,1522.31278 L601.829038,1440.40639 L649.117713,1358.5 L743.695063,1358.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,1358.5 L790.983738,1440.40639 L743.695063,1522.31278 L649.117713,1522.31278 L601.829038,1440.40639 L649.117713,1358.5 L743.695063,1358.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-66"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M743.695063,1522.5 L790.983738,1604.40639 L743.695063,1686.31278 L649.117713,1686.31278 L601.829038,1604.40639 L649.117713,1522.5 L743.695063,1522.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,1522.5 L790.983738,1604.40639 L743.695063,1686.31278 L649.117713,1686.31278 L601.829038,1604.40639 L649.117713,1522.5 L743.695063,1522.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(696.406388, 1768.406388) rotate(30.000000) translate(-696.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-67"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M696.406388,1673.82904 L778.312776,1721.11771 L778.312776,1815.69506 L696.406388,1862.98374 L614.5,1815.69506 L614.5,1721.11771 L696.406388,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M696.406388,1673.82904 L778.312776,1721.11771 L778.312776,1815.69506 L696.406388,1862.98374 L614.5,1815.69506 L614.5,1721.11771 L696.406388,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-68"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M743.695063,1850.5 L790.983738,1932.40639 L743.695063,2014.31278 L649.117713,2014.31278 L601.829038,1932.40639 L649.117713,1850.5 L743.695063,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,1850.5 L790.983738,1932.40639 L743.695063,2014.31278 L649.117713,2014.31278 L601.829038,1932.40639 L649.117713,1850.5 L743.695063,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-69"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M743.695063,2014.5 L790.983738,2096.40639 L743.695063,2178.31278 L649.117713,2178.31278 L601.829038,2096.40639 L649.117713,2014.5 L743.695063,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M743.695063,2014.5 L790.983738,2096.40639 L743.695063,2178.31278 L649.117713,2178.31278 L601.829038,2096.40639 L649.117713,2014.5 L743.695063,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-70"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M885.695063,2260.5 L932.983738,2342.40639 L885.695063,2424.31278 L791.117713,2424.31278 L743.829038,2342.40639 L791.117713,2260.5 L885.695063,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M885.695063,2260.5 L932.983738,2342.40639 L885.695063,2424.31278 L791.117713,2424.31278 L743.829038,2342.40639 L791.117713,2260.5 L885.695063,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(838.406388, 1030.406388) rotate(30.000000) translate(-838.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-71"></use>
@@ -589,7 +589,7 @@
                 </g>
                 <g id="Polygon" transform="translate(838.406388, 1194.406388) rotate(30.000000) translate(-838.406388, -1194.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-72"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M838.406388,1099.82904 L920.312776,1147.11771 L920.312776,1241.69506 L838.406388,1288.98374 L756.5,1241.69506 L756.5,1147.11771 L838.406388,1099.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M838.406388,1099.82904 L920.312776,1147.11771 L920.312776,1241.69506 L838.406388,1288.98374 L756.5,1241.69506 L756.5,1147.11771 L838.406388,1099.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(838.406388, 210.406388) rotate(30.000000) translate(-838.406388, -210.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-73"></use>
@@ -613,31 +613,31 @@
                 </g>
                 <g id="Polygon" transform="translate(838.406388, 1358.406388) rotate(30.000000) translate(-838.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-78"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M838.406388,1263.82904 L920.312776,1311.11771 L920.312776,1405.69506 L838.406388,1452.98374 L756.5,1405.69506 L756.5,1311.11771 L838.406388,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M838.406388,1263.82904 L920.312776,1311.11771 L920.312776,1405.69506 L838.406388,1452.98374 L756.5,1405.69506 L756.5,1311.11771 L838.406388,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(838.406388, 1522.406388) rotate(30.000000) translate(-838.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-79"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M838.406388,1427.82904 L920.312776,1475.11771 L920.312776,1569.69506 L838.406388,1616.98374 L756.5,1569.69506 L756.5,1475.11771 L838.406388,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M838.406388,1427.82904 L920.312776,1475.11771 L920.312776,1569.69506 L838.406388,1616.98374 L756.5,1569.69506 L756.5,1475.11771 L838.406388,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(838.406388, 1686.406388) rotate(30.000000) translate(-838.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-80"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M838.406388,1591.82904 L920.312776,1639.11771 L920.312776,1733.69506 L838.406388,1780.98374 L756.5,1733.69506 L756.5,1639.11771 L838.406388,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M838.406388,1591.82904 L920.312776,1639.11771 L920.312776,1733.69506 L838.406388,1780.98374 L756.5,1733.69506 L756.5,1639.11771 L838.406388,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-81"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M885.695063,1768.5 L932.983738,1850.40639 L885.695063,1932.31278 L791.117713,1932.31278 L743.829038,1850.40639 L791.117713,1768.5 L885.695063,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M885.695063,1768.5 L932.983738,1850.40639 L885.695063,1932.31278 L791.117713,1932.31278 L743.829038,1850.40639 L791.117713,1768.5 L885.695063,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-82"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M885.695063,1932.5 L932.983738,2014.40639 L885.695063,2096.31278 L791.117713,2096.31278 L743.829038,2014.40639 L791.117713,1932.5 L885.695063,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M885.695063,1932.5 L932.983738,2014.40639 L885.695063,2096.31278 L791.117713,2096.31278 L743.829038,2014.40639 L791.117713,1932.5 L885.695063,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-83"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M885.695063,2096.5 L932.983738,2178.40639 L885.695063,2260.31278 L791.117713,2260.31278 L743.829038,2178.40639 L791.117713,2096.5 L885.695063,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M885.695063,2096.5 L932.983738,2178.40639 L885.695063,2260.31278 L791.117713,2260.31278 L743.829038,2178.40639 L791.117713,2096.5 L885.695063,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-84"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1027.69506,2178.5 L1074.98374,2260.40639 L1027.69506,2342.31278 L933.117713,2342.31278 L885.829038,2260.40639 L933.117713,2178.5 L1027.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1027.69506,2178.5 L1074.98374,2260.40639 L1027.69506,2342.31278 L933.117713,2342.31278 L885.829038,2260.40639 L933.117713,2178.5 L1027.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(980.406388, 948.406388) rotate(30.000000) translate(-980.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-85"></use>
@@ -669,31 +669,31 @@
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-92"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1027.69506,1194.5 L1074.98374,1276.40639 L1027.69506,1358.31278 L933.117713,1358.31278 L885.829038,1276.40639 L933.117713,1194.5 L1027.69506,1194.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1027.69506,1194.5 L1074.98374,1276.40639 L1027.69506,1358.31278 L933.117713,1358.31278 L885.829038,1276.40639 L933.117713,1194.5 L1027.69506,1194.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-93"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1027.69506,1358.5 L1074.98374,1440.40639 L1027.69506,1522.31278 L933.117713,1522.31278 L885.829038,1440.40639 L933.117713,1358.5 L1027.69506,1358.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1027.69506,1358.5 L1074.98374,1440.40639 L1027.69506,1522.31278 L933.117713,1522.31278 L885.829038,1440.40639 L933.117713,1358.5 L1027.69506,1358.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(980.406388, 1604.406388) rotate(30.000000) translate(-980.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-94"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M980.406388,1509.82904 L1062.31278,1557.11771 L1062.31278,1651.69506 L980.406388,1698.98374 L898.5,1651.69506 L898.5,1557.11771 L980.406388,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M980.406388,1509.82904 L1062.31278,1557.11771 L1062.31278,1651.69506 L980.406388,1698.98374 L898.5,1651.69506 L898.5,1557.11771 L980.406388,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(980.406388, 1768.406388) rotate(30.000000) translate(-980.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-95"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M980.406388,1673.82904 L1062.31278,1721.11771 L1062.31278,1815.69506 L980.406388,1862.98374 L898.5,1815.69506 L898.5,1721.11771 L980.406388,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M980.406388,1673.82904 L1062.31278,1721.11771 L1062.31278,1815.69506 L980.406388,1862.98374 L898.5,1815.69506 L898.5,1721.11771 L980.406388,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-96"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1027.69506,1850.5 L1074.98374,1932.40639 L1027.69506,2014.31278 L933.117713,2014.31278 L885.829038,1932.40639 L933.117713,1850.5 L1027.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1027.69506,1850.5 L1074.98374,1932.40639 L1027.69506,2014.31278 L933.117713,2014.31278 L885.829038,1932.40639 L933.117713,1850.5 L1027.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-97"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1027.69506,2014.5 L1074.98374,2096.40639 L1027.69506,2178.31278 L933.117713,2178.31278 L885.829038,2096.40639 L933.117713,2014.5 L1027.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1027.69506,2014.5 L1074.98374,2096.40639 L1027.69506,2178.31278 L933.117713,2178.31278 L885.829038,2096.40639 L933.117713,2014.5 L1027.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-98"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1169.69506,2260.5 L1216.98374,2342.40639 L1169.69506,2424.31278 L1075.11771,2424.31278 L1027.82904,2342.40639 L1075.11771,2260.5 L1169.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1169.69506,2260.5 L1216.98374,2342.40639 L1169.69506,2424.31278 L1075.11771,2424.31278 L1027.82904,2342.40639 L1075.11771,2260.5 L1169.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1122.406388, 1030.406388) rotate(30.000000) translate(-1122.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-99"></use>
@@ -721,31 +721,31 @@
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-105"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1169.69506,1276.5 L1216.98374,1358.40639 L1169.69506,1440.31278 L1075.11771,1440.31278 L1027.82904,1358.40639 L1075.11771,1276.5 L1169.69506,1276.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1169.69506,1276.5 L1216.98374,1358.40639 L1169.69506,1440.31278 L1075.11771,1440.31278 L1027.82904,1358.40639 L1075.11771,1276.5 L1169.69506,1276.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1122.406388, 1522.406388) rotate(30.000000) translate(-1122.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-106"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1122.40639,1427.82904 L1204.31278,1475.11771 L1204.31278,1569.69506 L1122.40639,1616.98374 L1040.5,1569.69506 L1040.5,1475.11771 L1122.40639,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1122.40639,1427.82904 L1204.31278,1475.11771 L1204.31278,1569.69506 L1122.40639,1616.98374 L1040.5,1569.69506 L1040.5,1475.11771 L1122.40639,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1122.406388, 1686.406388) rotate(30.000000) translate(-1122.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-107"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1122.40639,1591.82904 L1204.31278,1639.11771 L1204.31278,1733.69506 L1122.40639,1780.98374 L1040.5,1733.69506 L1040.5,1639.11771 L1122.40639,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1122.40639,1591.82904 L1204.31278,1639.11771 L1204.31278,1733.69506 L1122.40639,1780.98374 L1040.5,1733.69506 L1040.5,1639.11771 L1122.40639,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-108"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1169.69506,1768.5 L1216.98374,1850.40639 L1169.69506,1932.31278 L1075.11771,1932.31278 L1027.82904,1850.40639 L1075.11771,1768.5 L1169.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1169.69506,1768.5 L1216.98374,1850.40639 L1169.69506,1932.31278 L1075.11771,1932.31278 L1027.82904,1850.40639 L1075.11771,1768.5 L1169.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-109"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1169.69506,1932.5 L1216.98374,2014.40639 L1169.69506,2096.31278 L1075.11771,2096.31278 L1027.82904,2014.40639 L1075.11771,1932.5 L1169.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1169.69506,1932.5 L1216.98374,2014.40639 L1169.69506,2096.31278 L1075.11771,2096.31278 L1027.82904,2014.40639 L1075.11771,1932.5 L1169.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-110"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1169.69506,2096.5 L1216.98374,2178.40639 L1169.69506,2260.31278 L1075.11771,2260.31278 L1027.82904,2178.40639 L1075.11771,2096.5 L1169.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1169.69506,2096.5 L1216.98374,2178.40639 L1169.69506,2260.31278 L1075.11771,2260.31278 L1027.82904,2178.40639 L1075.11771,2096.5 L1169.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-111"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1311.69506,2178.5 L1358.98374,2260.40639 L1311.69506,2342.31278 L1217.11771,2342.31278 L1169.82904,2260.40639 L1217.11771,2178.5 L1311.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1311.69506,2178.5 L1358.98374,2260.40639 L1311.69506,2342.31278 L1217.11771,2342.31278 L1169.82904,2260.40639 L1217.11771,2178.5 L1311.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1264.406388, 948.406388) rotate(30.000000) translate(-1264.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-112"></use>
@@ -777,31 +777,31 @@
                 </g>
                 <g id="Polygon" transform="translate(1264.406388, 1276.406388) rotate(30.000000) translate(-1264.406388, -1276.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-119"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1264.40639,1181.82904 L1346.31278,1229.11771 L1346.31278,1323.69506 L1264.40639,1370.98374 L1182.5,1323.69506 L1182.5,1229.11771 L1264.40639,1181.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1264.40639,1181.82904 L1346.31278,1229.11771 L1346.31278,1323.69506 L1264.40639,1370.98374 L1182.5,1323.69506 L1182.5,1229.11771 L1264.40639,1181.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1264.406388, 1440.406388) rotate(30.000000) translate(-1264.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-120"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1264.40639,1345.82904 L1346.31278,1393.11771 L1346.31278,1487.69506 L1264.40639,1534.98374 L1182.5,1487.69506 L1182.5,1393.11771 L1264.40639,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1264.40639,1345.82904 L1346.31278,1393.11771 L1346.31278,1487.69506 L1264.40639,1534.98374 L1182.5,1487.69506 L1182.5,1393.11771 L1264.40639,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1264.406388, 1604.406388) rotate(30.000000) translate(-1264.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-121"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1264.40639,1509.82904 L1346.31278,1557.11771 L1346.31278,1651.69506 L1264.40639,1698.98374 L1182.5,1651.69506 L1182.5,1557.11771 L1264.40639,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1264.40639,1509.82904 L1346.31278,1557.11771 L1346.31278,1651.69506 L1264.40639,1698.98374 L1182.5,1651.69506 L1182.5,1557.11771 L1264.40639,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1264.406388, 1768.406388) rotate(30.000000) translate(-1264.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-122"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1264.40639,1673.82904 L1346.31278,1721.11771 L1346.31278,1815.69506 L1264.40639,1862.98374 L1182.5,1815.69506 L1182.5,1721.11771 L1264.40639,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1264.40639,1673.82904 L1346.31278,1721.11771 L1346.31278,1815.69506 L1264.40639,1862.98374 L1182.5,1815.69506 L1182.5,1721.11771 L1264.40639,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-123"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1311.69506,1850.5 L1358.98374,1932.40639 L1311.69506,2014.31278 L1217.11771,2014.31278 L1169.82904,1932.40639 L1217.11771,1850.5 L1311.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1311.69506,1850.5 L1358.98374,1932.40639 L1311.69506,2014.31278 L1217.11771,2014.31278 L1169.82904,1932.40639 L1217.11771,1850.5 L1311.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-124"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1311.69506,2014.5 L1358.98374,2096.40639 L1311.69506,2178.31278 L1217.11771,2178.31278 L1169.82904,2096.40639 L1217.11771,2014.5 L1311.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1311.69506,2014.5 L1358.98374,2096.40639 L1311.69506,2178.31278 L1217.11771,2178.31278 L1169.82904,2096.40639 L1217.11771,2014.5 L1311.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-125"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1453.69506,2096.5 L1500.98374,2178.40639 L1453.69506,2260.31278 L1359.11771,2260.31278 L1311.82904,2178.40639 L1359.11771,2096.5 L1453.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1453.69506,2096.5 L1500.98374,2178.40639 L1453.69506,2260.31278 L1359.11771,2260.31278 L1311.82904,2178.40639 L1359.11771,2096.5 L1453.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1406.406388, 866.406388) rotate(30.000000) translate(-1406.406388, -866.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-126"></use>
@@ -833,27 +833,27 @@
                 </g>
                 <g id="Polygon" transform="translate(1406.406388, 1358.406388) rotate(30.000000) translate(-1406.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-133"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1406.40639,1263.82904 L1488.31278,1311.11771 L1488.31278,1405.69506 L1406.40639,1452.98374 L1324.5,1405.69506 L1324.5,1311.11771 L1406.40639,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1406.40639,1263.82904 L1488.31278,1311.11771 L1488.31278,1405.69506 L1406.40639,1452.98374 L1324.5,1405.69506 L1324.5,1311.11771 L1406.40639,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1406.406388, 1522.406388) rotate(30.000000) translate(-1406.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-134"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1406.40639,1427.82904 L1488.31278,1475.11771 L1488.31278,1569.69506 L1406.40639,1616.98374 L1324.5,1569.69506 L1324.5,1475.11771 L1406.40639,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1406.40639,1427.82904 L1488.31278,1475.11771 L1488.31278,1569.69506 L1406.40639,1616.98374 L1324.5,1569.69506 L1324.5,1475.11771 L1406.40639,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1406.406388, 1686.406388) rotate(30.000000) translate(-1406.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-135"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1406.40639,1591.82904 L1488.31278,1639.11771 L1488.31278,1733.69506 L1406.40639,1780.98374 L1324.5,1733.69506 L1324.5,1639.11771 L1406.40639,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1406.40639,1591.82904 L1488.31278,1639.11771 L1488.31278,1733.69506 L1406.40639,1780.98374 L1324.5,1733.69506 L1324.5,1639.11771 L1406.40639,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-136"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1453.69506,1768.5 L1500.98374,1850.40639 L1453.69506,1932.31278 L1359.11771,1932.31278 L1311.82904,1850.40639 L1359.11771,1768.5 L1453.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1453.69506,1768.5 L1500.98374,1850.40639 L1453.69506,1932.31278 L1359.11771,1932.31278 L1311.82904,1850.40639 L1359.11771,1768.5 L1453.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-137"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1453.69506,1932.5 L1500.98374,2014.40639 L1453.69506,2096.31278 L1359.11771,2096.31278 L1311.82904,2014.40639 L1359.11771,1932.5 L1453.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1453.69506,1932.5 L1500.98374,2014.40639 L1453.69506,2096.31278 L1359.11771,2096.31278 L1311.82904,2014.40639 L1359.11771,1932.5 L1453.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-138"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1595.69506,2178.5 L1642.98374,2260.40639 L1595.69506,2342.31278 L1501.11771,2342.31278 L1453.82904,2260.40639 L1501.11771,2178.5 L1595.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1595.69506,2178.5 L1642.98374,2260.40639 L1595.69506,2342.31278 L1501.11771,2342.31278 L1453.82904,2260.40639 L1501.11771,2178.5 L1595.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1548.406388, 948.406388) rotate(30.000000) translate(-1548.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-139"></use>
@@ -885,15 +885,15 @@
                 </g>
                 <g id="Polygon" transform="translate(1548.406388, 1276.406388) rotate(30.000000) translate(-1548.406388, -1276.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-146"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1548.40639,1181.82904 L1630.31278,1229.11771 L1630.31278,1323.69506 L1548.40639,1370.98374 L1466.5,1323.69506 L1466.5,1229.11771 L1548.40639,1181.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1548.40639,1181.82904 L1630.31278,1229.11771 L1630.31278,1323.69506 L1548.40639,1370.98374 L1466.5,1323.69506 L1466.5,1229.11771 L1548.40639,1181.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1548.406388, 1440.406388) rotate(30.000000) translate(-1548.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-147"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1548.40639,1345.82904 L1630.31278,1393.11771 L1630.31278,1487.69506 L1548.40639,1534.98374 L1466.5,1487.69506 L1466.5,1393.11771 L1548.40639,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1548.40639,1345.82904 L1630.31278,1393.11771 L1630.31278,1487.69506 L1548.40639,1534.98374 L1466.5,1487.69506 L1466.5,1393.11771 L1548.40639,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1548.406388, 1604.406388) rotate(30.000000) translate(-1548.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-148"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1548.40639,1509.82904 L1630.31278,1557.11771 L1630.31278,1651.69506 L1548.40639,1698.98374 L1466.5,1651.69506 L1466.5,1557.11771 L1548.40639,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1548.40639,1509.82904 L1630.31278,1557.11771 L1630.31278,1651.69506 L1548.40639,1698.98374 L1466.5,1651.69506 L1466.5,1557.11771 L1548.40639,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1548.406388, 1768.406388) rotate(30.000000) translate(-1548.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-149"></use>
@@ -901,15 +901,15 @@
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-150"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1595.69506,1850.5 L1642.98374,1932.40639 L1595.69506,2014.31278 L1501.11771,2014.31278 L1453.82904,1932.40639 L1501.11771,1850.5 L1595.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1595.69506,1850.5 L1642.98374,1932.40639 L1595.69506,2014.31278 L1501.11771,2014.31278 L1453.82904,1932.40639 L1501.11771,1850.5 L1595.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-151"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1595.69506,2014.5 L1642.98374,2096.40639 L1595.69506,2178.31278 L1501.11771,2178.31278 L1453.82904,2096.40639 L1501.11771,2014.5 L1595.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1595.69506,2014.5 L1642.98374,2096.40639 L1595.69506,2178.31278 L1501.11771,2178.31278 L1453.82904,2096.40639 L1501.11771,2014.5 L1595.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-152"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1737.69506,2260.5 L1784.98374,2342.40639 L1737.69506,2424.31278 L1643.11771,2424.31278 L1595.82904,2342.40639 L1643.11771,2260.5 L1737.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1737.69506,2260.5 L1784.98374,2342.40639 L1737.69506,2424.31278 L1643.11771,2424.31278 L1595.82904,2342.40639 L1643.11771,2260.5 L1737.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1690.406388, 1030.406388) rotate(30.000000) translate(-1690.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-153"></use>
@@ -941,31 +941,31 @@
                 </g>
                 <g id="Polygon" transform="translate(1690.406388, 1358.406388) rotate(30.000000) translate(-1690.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-160"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1690.40639,1263.82904 L1772.31278,1311.11771 L1772.31278,1405.69506 L1690.40639,1452.98374 L1608.5,1405.69506 L1608.5,1311.11771 L1690.40639,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1690.40639,1263.82904 L1772.31278,1311.11771 L1772.31278,1405.69506 L1690.40639,1452.98374 L1608.5,1405.69506 L1608.5,1311.11771 L1690.40639,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1690.406388, 1522.406388) rotate(30.000000) translate(-1690.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-161"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1690.40639,1427.82904 L1772.31278,1475.11771 L1772.31278,1569.69506 L1690.40639,1616.98374 L1608.5,1569.69506 L1608.5,1475.11771 L1690.40639,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1690.40639,1427.82904 L1772.31278,1475.11771 L1772.31278,1569.69506 L1690.40639,1616.98374 L1608.5,1569.69506 L1608.5,1475.11771 L1690.40639,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1690.406388, 1686.406388) rotate(30.000000) translate(-1690.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-162"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1690.40639,1591.82904 L1772.31278,1639.11771 L1772.31278,1733.69506 L1690.40639,1780.98374 L1608.5,1733.69506 L1608.5,1639.11771 L1690.40639,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1690.40639,1591.82904 L1772.31278,1639.11771 L1772.31278,1733.69506 L1690.40639,1780.98374 L1608.5,1733.69506 L1608.5,1639.11771 L1690.40639,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-163"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1737.69506,1768.5 L1784.98374,1850.40639 L1737.69506,1932.31278 L1643.11771,1932.31278 L1595.82904,1850.40639 L1643.11771,1768.5 L1737.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1737.69506,1768.5 L1784.98374,1850.40639 L1737.69506,1932.31278 L1643.11771,1932.31278 L1595.82904,1850.40639 L1643.11771,1768.5 L1737.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-164"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1737.69506,1932.5 L1784.98374,2014.40639 L1737.69506,2096.31278 L1643.11771,2096.31278 L1595.82904,2014.40639 L1643.11771,1932.5 L1737.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1737.69506,1932.5 L1784.98374,2014.40639 L1737.69506,2096.31278 L1643.11771,2096.31278 L1595.82904,2014.40639 L1643.11771,1932.5 L1737.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-165"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1737.69506,2096.5 L1784.98374,2178.40639 L1737.69506,2260.31278 L1643.11771,2260.31278 L1595.82904,2178.40639 L1643.11771,2096.5 L1737.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1737.69506,2096.5 L1784.98374,2178.40639 L1737.69506,2260.31278 L1643.11771,2260.31278 L1595.82904,2178.40639 L1643.11771,2096.5 L1737.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-166"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1879.69506,2178.5 L1926.98374,2260.40639 L1879.69506,2342.31278 L1785.11771,2342.31278 L1737.82904,2260.40639 L1785.11771,2178.5 L1879.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1879.69506,2178.5 L1926.98374,2260.40639 L1879.69506,2342.31278 L1785.11771,2342.31278 L1737.82904,2260.40639 L1785.11771,2178.5 L1879.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1832.406388, 948.406388) rotate(30.000000) translate(-1832.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-167"></use>
@@ -997,31 +997,31 @@
                 </g>
                 <g id="Polygon" transform="translate(1832.406388, 1276.406388) rotate(30.000000) translate(-1832.406388, -1276.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-174"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1832.40639,1181.82904 L1914.31278,1229.11771 L1914.31278,1323.69506 L1832.40639,1370.98374 L1750.5,1323.69506 L1750.5,1229.11771 L1832.40639,1181.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1832.40639,1181.82904 L1914.31278,1229.11771 L1914.31278,1323.69506 L1832.40639,1370.98374 L1750.5,1323.69506 L1750.5,1229.11771 L1832.40639,1181.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1832.406388, 1440.406388) rotate(30.000000) translate(-1832.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-175"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1832.40639,1345.82904 L1914.31278,1393.11771 L1914.31278,1487.69506 L1832.40639,1534.98374 L1750.5,1487.69506 L1750.5,1393.11771 L1832.40639,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1832.40639,1345.82904 L1914.31278,1393.11771 L1914.31278,1487.69506 L1832.40639,1534.98374 L1750.5,1487.69506 L1750.5,1393.11771 L1832.40639,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1832.406388, 1604.406388) rotate(30.000000) translate(-1832.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-176"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1832.40639,1509.82904 L1914.31278,1557.11771 L1914.31278,1651.69506 L1832.40639,1698.98374 L1750.5,1651.69506 L1750.5,1557.11771 L1832.40639,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1832.40639,1509.82904 L1914.31278,1557.11771 L1914.31278,1651.69506 L1832.40639,1698.98374 L1750.5,1651.69506 L1750.5,1557.11771 L1832.40639,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1832.406388, 1768.406388) rotate(30.000000) translate(-1832.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-177"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1832.40639,1673.82904 L1914.31278,1721.11771 L1914.31278,1815.69506 L1832.40639,1862.98374 L1750.5,1815.69506 L1750.5,1721.11771 L1832.40639,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1832.40639,1673.82904 L1914.31278,1721.11771 L1914.31278,1815.69506 L1832.40639,1862.98374 L1750.5,1815.69506 L1750.5,1721.11771 L1832.40639,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-178"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1879.69506,1850.5 L1926.98374,1932.40639 L1879.69506,2014.31278 L1785.11771,2014.31278 L1737.82904,1932.40639 L1785.11771,1850.5 L1879.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1879.69506,1850.5 L1926.98374,1932.40639 L1879.69506,2014.31278 L1785.11771,2014.31278 L1737.82904,1932.40639 L1785.11771,1850.5 L1879.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-179"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1879.69506,2014.5 L1926.98374,2096.40639 L1879.69506,2178.31278 L1785.11771,2178.31278 L1737.82904,2096.40639 L1785.11771,2014.5 L1879.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1879.69506,2014.5 L1926.98374,2096.40639 L1879.69506,2178.31278 L1785.11771,2178.31278 L1737.82904,2096.40639 L1785.11771,2014.5 L1879.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-180"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2021.69506,2260.5 L2068.98374,2342.40639 L2021.69506,2424.31278 L1927.11771,2424.31278 L1879.82904,2342.40639 L1927.11771,2260.5 L2021.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2021.69506,2260.5 L2068.98374,2342.40639 L2021.69506,2424.31278 L1927.11771,2424.31278 L1879.82904,2342.40639 L1927.11771,2260.5 L2021.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1974.406388, 1030.406388) rotate(30.000000) translate(-1974.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-181"></use>
@@ -1053,31 +1053,31 @@
                 </g>
                 <g id="Polygon" transform="translate(1974.406388, 1358.406388) rotate(30.000000) translate(-1974.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-188"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1974.40639,1263.82904 L2056.31278,1311.11771 L2056.31278,1405.69506 L1974.40639,1452.98374 L1892.5,1405.69506 L1892.5,1311.11771 L1974.40639,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1974.40639,1263.82904 L2056.31278,1311.11771 L2056.31278,1405.69506 L1974.40639,1452.98374 L1892.5,1405.69506 L1892.5,1311.11771 L1974.40639,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1974.406388, 1522.406388) rotate(30.000000) translate(-1974.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-189"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1974.40639,1427.82904 L2056.31278,1475.11771 L2056.31278,1569.69506 L1974.40639,1616.98374 L1892.5,1569.69506 L1892.5,1475.11771 L1974.40639,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1974.40639,1427.82904 L2056.31278,1475.11771 L2056.31278,1569.69506 L1974.40639,1616.98374 L1892.5,1569.69506 L1892.5,1475.11771 L1974.40639,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1974.406388, 1686.406388) rotate(30.000000) translate(-1974.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-190"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1974.40639,1591.82904 L2056.31278,1639.11771 L2056.31278,1733.69506 L1974.40639,1780.98374 L1892.5,1733.69506 L1892.5,1639.11771 L1974.40639,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1974.40639,1591.82904 L2056.31278,1639.11771 L2056.31278,1733.69506 L1974.40639,1780.98374 L1892.5,1733.69506 L1892.5,1639.11771 L1974.40639,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-191"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2021.69506,1768.5 L2068.98374,1850.40639 L2021.69506,1932.31278 L1927.11771,1932.31278 L1879.82904,1850.40639 L1927.11771,1768.5 L2021.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2021.69506,1768.5 L2068.98374,1850.40639 L2021.69506,1932.31278 L1927.11771,1932.31278 L1879.82904,1850.40639 L1927.11771,1768.5 L2021.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-192"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2021.69506,1932.5 L2068.98374,2014.40639 L2021.69506,2096.31278 L1927.11771,2096.31278 L1879.82904,2014.40639 L1927.11771,1932.5 L2021.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2021.69506,1932.5 L2068.98374,2014.40639 L2021.69506,2096.31278 L1927.11771,2096.31278 L1879.82904,2014.40639 L1927.11771,1932.5 L2021.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-193"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2021.69506,2096.5 L2068.98374,2178.40639 L2021.69506,2260.31278 L1927.11771,2260.31278 L1879.82904,2178.40639 L1927.11771,2096.5 L2021.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2021.69506,2096.5 L2068.98374,2178.40639 L2021.69506,2260.31278 L1927.11771,2260.31278 L1879.82904,2178.40639 L1927.11771,2096.5 L2021.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-194"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2163.69506,2178.5 L2210.98374,2260.40639 L2163.69506,2342.31278 L2069.11771,2342.31278 L2021.82904,2260.40639 L2069.11771,2178.5 L2163.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2163.69506,2178.5 L2210.98374,2260.40639 L2163.69506,2342.31278 L2069.11771,2342.31278 L2021.82904,2260.40639 L2069.11771,2178.5 L2163.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2116.406388, 948.406388) rotate(30.000000) translate(-2116.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-195"></use>
@@ -1109,31 +1109,31 @@
                 </g>
                 <g id="Polygon" transform="translate(2116.406388, 1276.406388) rotate(30.000000) translate(-2116.406388, -1276.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-202"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2116.40639,1181.82904 L2198.31278,1229.11771 L2198.31278,1323.69506 L2116.40639,1370.98374 L2034.5,1323.69506 L2034.5,1229.11771 L2116.40639,1181.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2116.40639,1181.82904 L2198.31278,1229.11771 L2198.31278,1323.69506 L2116.40639,1370.98374 L2034.5,1323.69506 L2034.5,1229.11771 L2116.40639,1181.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2116.406388, 1440.406388) rotate(30.000000) translate(-2116.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-203"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2116.40639,1345.82904 L2198.31278,1393.11771 L2198.31278,1487.69506 L2116.40639,1534.98374 L2034.5,1487.69506 L2034.5,1393.11771 L2116.40639,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2116.40639,1345.82904 L2198.31278,1393.11771 L2198.31278,1487.69506 L2116.40639,1534.98374 L2034.5,1487.69506 L2034.5,1393.11771 L2116.40639,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2116.406388, 1604.406388) rotate(30.000000) translate(-2116.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-204"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2116.40639,1509.82904 L2198.31278,1557.11771 L2198.31278,1651.69506 L2116.40639,1698.98374 L2034.5,1651.69506 L2034.5,1557.11771 L2116.40639,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2116.40639,1509.82904 L2198.31278,1557.11771 L2198.31278,1651.69506 L2116.40639,1698.98374 L2034.5,1651.69506 L2034.5,1557.11771 L2116.40639,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-205"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2163.69506,1686.5 L2210.98374,1768.40639 L2163.69506,1850.31278 L2069.11771,1850.31278 L2021.82904,1768.40639 L2069.11771,1686.5 L2163.69506,1686.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2163.69506,1686.5 L2210.98374,1768.40639 L2163.69506,1850.31278 L2069.11771,1850.31278 L2021.82904,1768.40639 L2069.11771,1686.5 L2163.69506,1686.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-206"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2163.69506,1850.5 L2210.98374,1932.40639 L2163.69506,2014.31278 L2069.11771,2014.31278 L2021.82904,1932.40639 L2069.11771,1850.5 L2163.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2163.69506,1850.5 L2210.98374,1932.40639 L2163.69506,2014.31278 L2069.11771,2014.31278 L2021.82904,1932.40639 L2069.11771,1850.5 L2163.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-207"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2163.69506,2014.5 L2210.98374,2096.40639 L2163.69506,2178.31278 L2069.11771,2178.31278 L2021.82904,2096.40639 L2069.11771,2014.5 L2163.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2163.69506,2014.5 L2210.98374,2096.40639 L2163.69506,2178.31278 L2069.11771,2178.31278 L2021.82904,2096.40639 L2069.11771,2014.5 L2163.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-208"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2305.69506,2096.5 L2352.98374,2178.40639 L2305.69506,2260.31278 L2211.11771,2260.31278 L2163.82904,2178.40639 L2211.11771,2096.5 L2305.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2305.69506,2096.5 L2352.98374,2178.40639 L2305.69506,2260.31278 L2211.11771,2260.31278 L2163.82904,2178.40639 L2211.11771,2096.5 L2305.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2258.406388, 866.406388) rotate(30.000000) translate(-2258.406388, -866.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-209"></use>
@@ -1165,27 +1165,27 @@
                 </g>
                 <g id="Polygon" transform="translate(2258.406388, 1358.406388) rotate(30.000000) translate(-2258.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-216"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2258.40639,1263.82904 L2340.31278,1311.11771 L2340.31278,1405.69506 L2258.40639,1452.98374 L2176.5,1405.69506 L2176.5,1311.11771 L2258.40639,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2258.40639,1263.82904 L2340.31278,1311.11771 L2340.31278,1405.69506 L2258.40639,1452.98374 L2176.5,1405.69506 L2176.5,1311.11771 L2258.40639,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2258.406388, 1522.406388) rotate(30.000000) translate(-2258.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-217"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2258.40639,1427.82904 L2340.31278,1475.11771 L2340.31278,1569.69506 L2258.40639,1616.98374 L2176.5,1569.69506 L2176.5,1475.11771 L2258.40639,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2258.40639,1427.82904 L2340.31278,1475.11771 L2340.31278,1569.69506 L2258.40639,1616.98374 L2176.5,1569.69506 L2176.5,1475.11771 L2258.40639,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2258.406388, 1686.406388) rotate(30.000000) translate(-2258.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-218"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2258.40639,1591.82904 L2340.31278,1639.11771 L2340.31278,1733.69506 L2258.40639,1780.98374 L2176.5,1733.69506 L2176.5,1639.11771 L2258.40639,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2258.40639,1591.82904 L2340.31278,1639.11771 L2340.31278,1733.69506 L2258.40639,1780.98374 L2176.5,1733.69506 L2176.5,1639.11771 L2258.40639,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-219"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2305.69506,1768.5 L2352.98374,1850.40639 L2305.69506,1932.31278 L2211.11771,1932.31278 L2163.82904,1850.40639 L2211.11771,1768.5 L2305.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2305.69506,1768.5 L2352.98374,1850.40639 L2305.69506,1932.31278 L2211.11771,1932.31278 L2163.82904,1850.40639 L2211.11771,1768.5 L2305.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-220"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2305.69506,1932.5 L2352.98374,2014.40639 L2305.69506,2096.31278 L2211.11771,2096.31278 L2163.82904,2014.40639 L2211.11771,1932.5 L2305.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2305.69506,1932.5 L2352.98374,2014.40639 L2305.69506,2096.31278 L2211.11771,2096.31278 L2163.82904,2014.40639 L2211.11771,1932.5 L2305.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-221"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2447.69506,2178.5 L2494.98374,2260.40639 L2447.69506,2342.31278 L2353.11771,2342.31278 L2305.82904,2260.40639 L2353.11771,2178.5 L2447.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2447.69506,2178.5 L2494.98374,2260.40639 L2447.69506,2342.31278 L2353.11771,2342.31278 L2305.82904,2260.40639 L2353.11771,2178.5 L2447.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2400.406388, 948.406388) rotate(30.000000) translate(-2400.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-222"></use>
@@ -1221,27 +1221,27 @@
                 </g>
                 <g id="Polygon" transform="translate(2400.406388, 1440.406388) rotate(30.000000) translate(-2400.406388, -1440.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-230"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2400.40639,1345.82904 L2482.31278,1393.11771 L2482.31278,1487.69506 L2400.40639,1534.98374 L2318.5,1487.69506 L2318.5,1393.11771 L2400.40639,1345.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2400.40639,1345.82904 L2482.31278,1393.11771 L2482.31278,1487.69506 L2400.40639,1534.98374 L2318.5,1487.69506 L2318.5,1393.11771 L2400.40639,1345.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2400.406388, 1604.406388) rotate(30.000000) translate(-2400.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-231"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2400.40639,1509.82904 L2482.31278,1557.11771 L2482.31278,1651.69506 L2400.40639,1698.98374 L2318.5,1651.69506 L2318.5,1557.11771 L2400.40639,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2400.40639,1509.82904 L2482.31278,1557.11771 L2482.31278,1651.69506 L2400.40639,1698.98374 L2318.5,1651.69506 L2318.5,1557.11771 L2400.40639,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2400.406388, 1768.406388) rotate(30.000000) translate(-2400.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-232"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2400.40639,1673.82904 L2482.31278,1721.11771 L2482.31278,1815.69506 L2400.40639,1862.98374 L2318.5,1815.69506 L2318.5,1721.11771 L2400.40639,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2400.40639,1673.82904 L2482.31278,1721.11771 L2482.31278,1815.69506 L2400.40639,1862.98374 L2318.5,1815.69506 L2318.5,1721.11771 L2400.40639,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-233"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2447.69506,1850.5 L2494.98374,1932.40639 L2447.69506,2014.31278 L2353.11771,2014.31278 L2305.82904,1932.40639 L2353.11771,1850.5 L2447.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2447.69506,1850.5 L2494.98374,1932.40639 L2447.69506,2014.31278 L2353.11771,2014.31278 L2305.82904,1932.40639 L2353.11771,1850.5 L2447.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-234"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2447.69506,2014.5 L2494.98374,2096.40639 L2447.69506,2178.31278 L2353.11771,2178.31278 L2305.82904,2096.40639 L2353.11771,2014.5 L2447.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2447.69506,2014.5 L2494.98374,2096.40639 L2447.69506,2178.31278 L2353.11771,2178.31278 L2305.82904,2096.40639 L2353.11771,2014.5 L2447.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-235"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2589.69506,2260.5 L2636.98374,2342.40639 L2589.69506,2424.31278 L2495.11771,2424.31278 L2447.82904,2342.40639 L2495.11771,2260.5 L2589.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2589.69506,2260.5 L2636.98374,2342.40639 L2589.69506,2424.31278 L2495.11771,2424.31278 L2447.82904,2342.40639 L2495.11771,2260.5 L2589.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2542.406388, 1030.406388) rotate(30.000000) translate(-2542.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-236"></use>
@@ -1273,31 +1273,31 @@
                 </g>
                 <g id="Polygon" transform="translate(2542.406388, 1358.406388) rotate(30.000000) translate(-2542.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-243"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2542.40639,1263.82904 L2624.31278,1311.11771 L2624.31278,1405.69506 L2542.40639,1452.98374 L2460.5,1405.69506 L2460.5,1311.11771 L2542.40639,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2542.40639,1263.82904 L2624.31278,1311.11771 L2624.31278,1405.69506 L2542.40639,1452.98374 L2460.5,1405.69506 L2460.5,1311.11771 L2542.40639,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-244"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2589.69506,1440.5 L2636.98374,1522.40639 L2589.69506,1604.31278 L2495.11771,1604.31278 L2447.82904,1522.40639 L2495.11771,1440.5 L2589.69506,1440.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2589.69506,1440.5 L2636.98374,1522.40639 L2589.69506,1604.31278 L2495.11771,1604.31278 L2447.82904,1522.40639 L2495.11771,1440.5 L2589.69506,1440.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-245"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2589.69506,1604.5 L2636.98374,1686.40639 L2589.69506,1768.31278 L2495.11771,1768.31278 L2447.82904,1686.40639 L2495.11771,1604.5 L2589.69506,1604.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2589.69506,1604.5 L2636.98374,1686.40639 L2589.69506,1768.31278 L2495.11771,1768.31278 L2447.82904,1686.40639 L2495.11771,1604.5 L2589.69506,1604.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-246"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2589.69506,1768.5 L2636.98374,1850.40639 L2589.69506,1932.31278 L2495.11771,1932.31278 L2447.82904,1850.40639 L2495.11771,1768.5 L2589.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2589.69506,1768.5 L2636.98374,1850.40639 L2589.69506,1932.31278 L2495.11771,1932.31278 L2447.82904,1850.40639 L2495.11771,1768.5 L2589.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-247"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2589.69506,1932.5 L2636.98374,2014.40639 L2589.69506,2096.31278 L2495.11771,2096.31278 L2447.82904,2014.40639 L2495.11771,1932.5 L2589.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2589.69506,1932.5 L2636.98374,2014.40639 L2589.69506,2096.31278 L2495.11771,2096.31278 L2447.82904,2014.40639 L2495.11771,1932.5 L2589.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-248"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2589.69506,2096.5 L2636.98374,2178.40639 L2589.69506,2260.31278 L2495.11771,2260.31278 L2447.82904,2178.40639 L2495.11771,2096.5 L2589.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2589.69506,2096.5 L2636.98374,2178.40639 L2589.69506,2260.31278 L2495.11771,2260.31278 L2447.82904,2178.40639 L2495.11771,2096.5 L2589.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-249"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2731.69506,2178.5 L2778.98374,2260.40639 L2731.69506,2342.31278 L2637.11771,2342.31278 L2589.82904,2260.40639 L2637.11771,2178.5 L2731.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2731.69506,2178.5 L2778.98374,2260.40639 L2731.69506,2342.31278 L2637.11771,2342.31278 L2589.82904,2260.40639 L2637.11771,2178.5 L2731.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2684.406388, 948.406388) rotate(30.000000) translate(-2684.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-250"></use>
@@ -1333,27 +1333,27 @@
                 </g>
                 <g id="Polygon" transform="translate(2684.406388, 1441.406388) rotate(30.000000) translate(-2684.406388, -1441.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-258"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2684.40639,1346.82904 L2766.31278,1394.11771 L2766.31278,1488.69506 L2684.40639,1535.98374 L2602.5,1488.69506 L2602.5,1394.11771 L2684.40639,1346.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2684.40639,1346.82904 L2766.31278,1394.11771 L2766.31278,1488.69506 L2684.40639,1535.98374 L2602.5,1488.69506 L2602.5,1394.11771 L2684.40639,1346.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2684.406388, 1604.406388) rotate(30.000000) translate(-2684.406388, -1604.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-259"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2684.40639,1509.82904 L2766.31278,1557.11771 L2766.31278,1651.69506 L2684.40639,1698.98374 L2602.5,1651.69506 L2602.5,1557.11771 L2684.40639,1509.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2684.40639,1509.82904 L2766.31278,1557.11771 L2766.31278,1651.69506 L2684.40639,1698.98374 L2602.5,1651.69506 L2602.5,1557.11771 L2684.40639,1509.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2684.406388, 1768.406388) rotate(30.000000) translate(-2684.406388, -1768.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-260"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2684.40639,1673.82904 L2766.31278,1721.11771 L2766.31278,1815.69506 L2684.40639,1862.98374 L2602.5,1815.69506 L2602.5,1721.11771 L2684.40639,1673.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2684.40639,1673.82904 L2766.31278,1721.11771 L2766.31278,1815.69506 L2684.40639,1862.98374 L2602.5,1815.69506 L2602.5,1721.11771 L2684.40639,1673.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-261"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2731.69506,1850.5 L2778.98374,1932.40639 L2731.69506,2014.31278 L2637.11771,2014.31278 L2589.82904,1932.40639 L2637.11771,1850.5 L2731.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2731.69506,1850.5 L2778.98374,1932.40639 L2731.69506,2014.31278 L2637.11771,2014.31278 L2589.82904,1932.40639 L2637.11771,1850.5 L2731.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-262"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2731.69506,2014.5 L2778.98374,2096.40639 L2731.69506,2178.31278 L2637.11771,2178.31278 L2589.82904,2096.40639 L2637.11771,2014.5 L2731.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2731.69506,2014.5 L2778.98374,2096.40639 L2731.69506,2178.31278 L2637.11771,2178.31278 L2589.82904,2096.40639 L2637.11771,2014.5 L2731.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-263"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2873.69506,2260.5 L2920.98374,2342.40639 L2873.69506,2424.31278 L2779.11771,2424.31278 L2731.82904,2342.40639 L2779.11771,2260.5 L2873.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2873.69506,2260.5 L2920.98374,2342.40639 L2873.69506,2424.31278 L2779.11771,2424.31278 L2731.82904,2342.40639 L2779.11771,2260.5 L2873.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2826.406388, 1030.406388) rotate(30.000000) translate(-2826.406388, -1030.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-264"></use>
@@ -1361,7 +1361,7 @@
                 </g>
                 <g id="Polygon" transform="translate(2826.406388, 1194.406388) rotate(30.000000) translate(-2826.406388, -1194.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-265"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2826.40639,1099.82904 L2908.31278,1147.11771 L2908.31278,1241.69506 L2826.40639,1288.98374 L2744.5,1241.69506 L2744.5,1147.11771 L2826.40639,1099.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2826.40639,1099.82904 L2908.31278,1147.11771 L2908.31278,1241.69506 L2826.40639,1288.98374 L2744.5,1241.69506 L2744.5,1147.11771 L2826.40639,1099.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2826.406388, 210.406388) rotate(30.000000) translate(-2826.406388, -210.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-266"></use>
@@ -1385,31 +1385,31 @@
                 </g>
                 <g id="Polygon" transform="translate(2826.406388, 1358.406388) rotate(30.000000) translate(-2826.406388, -1358.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-271"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2826.40639,1263.82904 L2908.31278,1311.11771 L2908.31278,1405.69506 L2826.40639,1452.98374 L2744.5,1405.69506 L2744.5,1311.11771 L2826.40639,1263.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2826.40639,1263.82904 L2908.31278,1311.11771 L2908.31278,1405.69506 L2826.40639,1452.98374 L2744.5,1405.69506 L2744.5,1311.11771 L2826.40639,1263.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2826.406388, 1522.406388) rotate(30.000000) translate(-2826.406388, -1522.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-272"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2826.40639,1427.82904 L2908.31278,1475.11771 L2908.31278,1569.69506 L2826.40639,1616.98374 L2744.5,1569.69506 L2744.5,1475.11771 L2826.40639,1427.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2826.40639,1427.82904 L2908.31278,1475.11771 L2908.31278,1569.69506 L2826.40639,1616.98374 L2744.5,1569.69506 L2744.5,1475.11771 L2826.40639,1427.82904 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2826.406388, 1686.406388) rotate(30.000000) translate(-2826.406388, -1686.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-273"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2826.40639,1591.82904 L2908.31278,1639.11771 L2908.31278,1733.69506 L2826.40639,1780.98374 L2744.5,1733.69506 L2744.5,1639.11771 L2826.40639,1591.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2826.40639,1591.82904 L2908.31278,1639.11771 L2908.31278,1733.69506 L2826.40639,1780.98374 L2744.5,1733.69506 L2744.5,1639.11771 L2826.40639,1591.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-274"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2873.69506,1768.5 L2920.98374,1850.40639 L2873.69506,1932.31278 L2779.11771,1932.31278 L2731.82904,1850.40639 L2779.11771,1768.5 L2873.69506,1768.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2873.69506,1768.5 L2920.98374,1850.40639 L2873.69506,1932.31278 L2779.11771,1932.31278 L2731.82904,1850.40639 L2779.11771,1768.5 L2873.69506,1768.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-275"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2873.69506,1932.5 L2920.98374,2014.40639 L2873.69506,2096.31278 L2779.11771,2096.31278 L2731.82904,2014.40639 L2779.11771,1932.5 L2873.69506,1932.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2873.69506,1932.5 L2920.98374,2014.40639 L2873.69506,2096.31278 L2779.11771,2096.31278 L2731.82904,2014.40639 L2779.11771,1932.5 L2873.69506,1932.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-276"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2873.69506,2096.5 L2920.98374,2178.40639 L2873.69506,2260.31278 L2779.11771,2260.31278 L2731.82904,2178.40639 L2779.11771,2096.5 L2873.69506,2096.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2873.69506,2096.5 L2920.98374,2178.40639 L2873.69506,2260.31278 L2779.11771,2260.31278 L2731.82904,2178.40639 L2779.11771,2096.5 L2873.69506,2096.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-277"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M3015.69506,2178.5 L3062.98374,2260.40639 L3015.69506,2342.31278 L2921.11771,2342.31278 L2873.82904,2260.40639 L2921.11771,2178.5 L3015.69506,2178.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M3015.69506,2178.5 L3062.98374,2260.40639 L3015.69506,2342.31278 L2921.11771,2342.31278 L2873.82904,2260.40639 L2921.11771,2178.5 L3015.69506,2178.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(2968.406388, 948.406388) rotate(30.000000) translate(-2968.406388, -948.406388) ">
                     <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-278"></use>
@@ -1441,39 +1441,39 @@
                 </g>
                 <g id="Polygon" transform="translate(2968.406388, 1276.406388) rotate(30.000000) translate(-2968.406388, -1276.406388) ">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-285"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2968.40639,1181.82904 L3050.31278,1229.11771 L3050.31278,1323.69506 L2968.40639,1370.98374 L2886.5,1323.69506 L2886.5,1229.11771 L2968.40639,1181.82904 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2968.40639,1181.82904 L3050.31278,1229.11771 L3050.31278,1323.69506 L2968.40639,1370.98374 L2886.5,1323.69506 L2886.5,1229.11771 L2968.40639,1181.82904 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-286"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M3015.69506,1358.5 L3062.98374,1440.40639 L3015.69506,1522.31278 L2921.11771,1522.31278 L2873.82904,1440.40639 L2921.11771,1358.5 L3015.69506,1358.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M3015.69506,1358.5 L3062.98374,1440.40639 L3015.69506,1522.31278 L2921.11771,1522.31278 L2873.82904,1440.40639 L2921.11771,1358.5 L3015.69506,1358.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-287"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M3015.69506,1522.5 L3062.98374,1604.40639 L3015.69506,1686.31278 L2921.11771,1686.31278 L2873.82904,1604.40639 L2921.11771,1522.5 L3015.69506,1522.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M3015.69506,1522.5 L3062.98374,1604.40639 L3015.69506,1686.31278 L2921.11771,1686.31278 L2873.82904,1604.40639 L2921.11771,1522.5 L3015.69506,1522.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-288"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M3015.69506,1686.5 L3062.98374,1768.40639 L3015.69506,1850.31278 L2921.11771,1850.31278 L2873.82904,1768.40639 L2921.11771,1686.5 L3015.69506,1686.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M3015.69506,1686.5 L3062.98374,1768.40639 L3015.69506,1850.31278 L2921.11771,1850.31278 L2873.82904,1768.40639 L2921.11771,1686.5 L3015.69506,1686.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-289"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M3015.69506,1850.5 L3062.98374,1932.40639 L3015.69506,2014.31278 L2921.11771,2014.31278 L2873.82904,1932.40639 L2921.11771,1850.5 L3015.69506,1850.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M3015.69506,1850.5 L3062.98374,1932.40639 L3015.69506,2014.31278 L2921.11771,2014.31278 L2873.82904,1932.40639 L2921.11771,1850.5 L3015.69506,1850.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-290"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M3015.69506,2014.5 L3062.98374,2096.40639 L3015.69506,2178.31278 L2921.11771,2178.31278 L2873.82904,2096.40639 L2921.11771,2014.5 L3015.69506,2014.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M3015.69506,2014.5 L3062.98374,2096.40639 L3015.69506,2178.31278 L2921.11771,2178.31278 L2873.82904,2096.40639 L2921.11771,2014.5 L3015.69506,2014.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-291"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M1453.69506,2260.5 L1500.98374,2342.40639 L1453.69506,2424.31278 L1359.11771,2424.31278 L1311.82904,2342.40639 L1359.11771,2260.5 L1453.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M1453.69506,2260.5 L1500.98374,2342.40639 L1453.69506,2424.31278 L1359.11771,2424.31278 L1311.82904,2342.40639 L1359.11771,2260.5 L1453.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-292"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M601.695063,2260.5 L648.983738,2342.40639 L601.695063,2424.31278 L507.117713,2424.31278 L459.829038,2342.40639 L507.117713,2260.5 L601.695063,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M601.695063,2260.5 L648.983738,2342.40639 L601.695063,2424.31278 L507.117713,2424.31278 L459.829038,2342.40639 L507.117713,2260.5 L601.695063,2260.5 Z"></path>
                 </g>
                 <g id="Polygon">
                     <use fill="#FF4081" fill-rule="evenodd" xlink:href="#path-293"></use>
-                    <path stroke-opacity="0.5" stroke="#EBEBEB" stroke-width="1" d="M2305.69506,2260.5 L2352.98374,2342.40639 L2305.69506,2424.31278 L2211.11771,2424.31278 L2163.82904,2342.40639 L2211.11771,2260.5 L2305.69506,2260.5 Z"></path>
+                    <path stroke-opacity="0.5" stroke="#E91E63" stroke-width="1" d="M2305.69506,2260.5 L2352.98374,2342.40639 L2305.69506,2424.31278 L2211.11771,2424.31278 L2163.82904,2342.40639 L2211.11771,2260.5 L2305.69506,2260.5 Z"></path>
                 </g>
                 <g id="Polygon" transform="translate(1548.406388, 1768.406388) rotate(30.000000) translate(-1548.406388, -1768.406388) ">
                     <use fill-opacity="0.590353261" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-294"></use>

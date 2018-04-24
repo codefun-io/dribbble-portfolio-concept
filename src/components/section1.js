@@ -17,7 +17,7 @@ const Main = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 9rem 0 11rem 0;
+  padding: 9rem 0 8rem 0;
   @media only screen and (max-width: 1024px) {
     padding-bottom: 8rem;
   }
@@ -45,6 +45,7 @@ const Text = styled.div`
 `
 
 const Title = Text.extend`
+  letter-spacing: 1px;
   @media only screen and (max-width: 618px) {
     font-size: 3rem;
   }
@@ -93,7 +94,7 @@ const Section1 = () => (
         <Title
           theme={{
             color: '#363839',
-            fontSize: '4rem',
+            fontSize: '4.5rem',
             padding: '0 1rem 0 0',
             fontWeight: 'bold'
           }}
@@ -103,7 +104,7 @@ const Section1 = () => (
         <Title
           theme={{
             color: '#363839',
-            fontSize: '4rem',
+            fontSize: '4.5rem',
             padding: '0 1rem 0 0',
             fontWeight: 'lighter'
           }}

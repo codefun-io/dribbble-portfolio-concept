@@ -30,7 +30,7 @@ const Titleh3 = styled.div`
   width: 31rem;
   text-align: center;
   margin-top: 3.2rem;
-  font-size: 0.9em;
+  font-size: 0.81em;
   color: #8e8e8e;
   @media (max-width: 425px) {
     padding: 0 4rem;
