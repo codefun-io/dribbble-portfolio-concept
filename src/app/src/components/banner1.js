@@ -29,6 +29,7 @@ const Text1 = styled.div`
   font-size: 4.5em;
   letter-spacing: 4px;
   white-space: nowrap;
+  color: #303233;
   @media (max-width: 400px) {
     font-size: 1.5em;
   }
@@ -52,6 +53,7 @@ const Text32 = styled.div`
   grid-column: 3;
   grid-row: 2;
   width: 18rem;
+  color: #b4b4b4;
 `
 const RectColor = styled.div`
   margin-top: 8px;
