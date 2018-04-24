@@ -69,7 +69,7 @@ const TextArea = styled.div`
   flex-direction: column;
 `
 const Bg = styled.div`
-  background: url('/static/img/handphone.png');
+  background: url(${props => props.data.image});
   width: 450px;
   height: 400px;
   position: absolute;
@@ -116,10 +116,10 @@ const ButtonArea = styled.div`
 export default props => {
   return (
     <Banner data={{ top: props.top }}>
-      <Bg />
+      <Bg data={{ image: props.image || '/static/img/phone.png' }} />
       <BannerGrid>
         <TextArea>
-          <Text1> Slick Beauty</Text1>
+          <Text1> {props.title || 'Stick Beauty '}</Text1>
           <Text2>
             <Text31>
               <RectColor />
