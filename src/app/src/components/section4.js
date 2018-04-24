@@ -24,13 +24,14 @@ const NumWrap = styled.div`
 
 const Num = styled.div`
   color: #ff377c;
-  font-size: 4rem;
+  font-size: 4.3rem;
   font-weight: lighter;
+  letter-spacing: 2px;
 `
 
 const Middle = styled.div`
   color: #b8b9b9;
-  width: 260px;
+  width: 300px;
   margin-right: 4rem;
   font-size: 0.9rem;
   letter-spacing: 0.2px;
@@ -43,7 +44,7 @@ const Middle = styled.div`
 
 const Right = styled.div`
   color: #b8b9b9;
-  width: 250px;
+  width: 280px;
   font-size: 0.9rem;
   letter-spacing: 0.2px;
   @media (max-width: 700px) {

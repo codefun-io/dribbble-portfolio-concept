@@ -13,13 +13,14 @@ const Titleh4 = styled.div`
   font-size: 0.7em;
   letter-spacing: 5px;
   color: #bfbfbf;
-  font-weight: 900;
+  font-weight: 600;
 `
 
 const WrapTitle2 = styled.div`
   margin-top: 2rem;
   font-size: 3.5em;
   letter-spacing: 4px;
+  font-weight: 300;
   @media (max-width: 470px) {
     font-size: 2.5em;
   }
@@ -33,7 +34,7 @@ const BoldTitle = styled.b`
 `
 
 const Titleh3 = styled.div`
-  font-size: 0.9em;
+  font-size: 0.8em;
   margin-top: 4rem;
   width: 35rem;
   text-align: center;
@@ -66,6 +67,7 @@ const Button = styled.div`
   line-height: 3rem;
   text-align: center;
   font-weight: bold;
+  letter-spacing: 0.5px;
 `
 
 const Section5 = () => (

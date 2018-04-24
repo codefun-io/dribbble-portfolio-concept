@@ -75,7 +75,7 @@ const Footer = () => (
   <Warpper className="footer">
     <LogoArea className="logo-area">
       <Logo src="static/img/footer-logo.png" />
-      <Text theme={{ color: '#D9D9D9', fontSize: '1.3rem' }}>Hexon</Text>
+      <Text theme={{ color: '#CACACA', fontSize: '1.3rem' }}>Hexon</Text>
     </LogoArea>
     <Social>
       <Link>

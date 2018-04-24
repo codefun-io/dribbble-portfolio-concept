@@ -10,7 +10,7 @@ const Wrapper = styled.div`
 
 const Text = styled.div`
   font-size: 4.5rem;
-  font-weight: lighter;
+  font-weight: 300;
   padding: ${props => props.theme && props.theme.padding};
   @media only screen and (max-width: 618px) {
     font-size: 3.5rem;
