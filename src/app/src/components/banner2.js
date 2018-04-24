@@ -5,6 +5,12 @@ const BannerGrid = styled.div`
   display: grid;
   grid-template-columns: 80px 3fr 350px;
   grid-template-rows: 150px minmax(300px, max-content) 150px;
+  @media (max-width: 500px) {
+    grid-template-columns: 1rem 3fr 350px;
+  }
+  @media (max-width: 400px) {
+    grid-template-columns: 1rem 3fr 100px;
+  }
 `
 
 const Banner = styled.div`
@@ -58,7 +64,7 @@ const TextArea = styled.div`
   flex-direction: column;
 `
 const Bg = styled.div`
-  background: url('/static/img/handphone.png');
+  background: url('/static/img/phone2.png');
   width: 450px;
   height: 400px;
   position: absolute;
@@ -66,9 +72,17 @@ const Bg = styled.div`
   right: 30px;
   z-index: -1;
   background-size: cover;
-  @media (max-width: 900px) {
+
+  @media (max-width: 1024px) {
     width: 350px;
     height: 300px;
+    right: -10px;
+  }
+
+  @media (max-width: 425px) {
+    width: 250px;
+    height: 200px;
+    bottom: -140px;
   }
 `
 const Button = styled.a`
@@ -89,9 +103,12 @@ const ButtonArea = styled.div`
   grid-template-columns: 50px 50px;
   grid-template-rows: 1fr;
   position: absolute;
-  right: 20px;
+  right: 40px;
   bottom: -100px;
   display: grid;
+  @media (max-width: 400px) {
+    right: 40px;
+  }
 `
 
 export default props => {
@@ -118,14 +135,14 @@ export default props => {
             data={{ column: '1/1' }}
             onClick={() => props.handleBanner(-1)}
           >
-            {'<'}
+            <img src="/static/img/ic_navigate_before_black_24dp_1x.png" />
           </Button>
           <Button
             data={{ column: '2/2' }}
             onClick={() => props.handleBanner(1)}
           >
             {' '}
-            {'>'}
+            <img src="/static/img/ic_navigate_next_black_24dp_1x.png" />
           </Button>
         </ButtonArea>
       </BannerGrid>

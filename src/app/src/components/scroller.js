@@ -17,7 +17,6 @@ const HorizontalBlock = styled.div`
   box-shadow: 4px 4px 12px 4px rgba(20%, 20%, 40%, 0.5);
   background: #fff;
   overflow: hidden;
-  min-width: 400px;
 `
 
 const PassRight = keyframes`
