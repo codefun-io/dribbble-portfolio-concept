@@ -3,8 +3,8 @@ import styled from 'styled-components'
 
 const BannerGrid = styled.div`
   display: grid;
-  grid-template-columns: 3fr 100px;
-  grid-template-rows: 80px minmax(300px, max-content) 50px;
+  grid-template-columns: 80px 3fr 350px;
+  grid-template-rows: 150px minmax(300px, max-content) 150px;
 `
 
 const Banner = styled.div`
@@ -19,8 +19,9 @@ const Banner = styled.div`
   transform: translate(0px, 0px);
 `
 const Text1 = styled.div`
-  margin-left: 30px;
-  font-size: 3em;
+  margin-left: 10px;
+  font-size: 3.5em;
+  white-space: nowrap;
   @media (max-width: 400px) {
     font-size: 1.5em;
   }
@@ -51,18 +52,18 @@ const RectColor = styled.div`
   background-color: #ff377c;
 `
 const TextArea = styled.div`
-  grid-column: 1/1;
+  grid-column: 2/2;
   grid-row: 2/4;
   display: flex;
   flex-direction: column;
 `
 const Bg = styled.div`
-  background: url('/static/img/phone2.png');
+  background: url('/static/img/handphone.png');
   width: 450px;
   height: 400px;
   position: absolute;
-  bottom: 0px;
-  right: -70px;
+  bottom: -150px;
+  right: 30px;
   z-index: -1;
   background-size: cover;
   @media (max-width: 900px) {
@@ -83,10 +84,13 @@ const Button = styled.a`
   grid-column: ${props => props.data.column};
 `
 const ButtonArea = styled.div`
-  grid-column: 2;
+  grid-column: 3;
   grid-row: 3;
   grid-template-columns: 50px 50px;
   grid-template-rows: 1fr;
+  position: absolute;
+  right: 20px;
+  bottom: -100px;
   display: grid;
 `
 
@@ -96,7 +100,7 @@ export default props => {
       <Bg />
       <BannerGrid>
         <TextArea>
-          <Text1> Banner 2</Text1>
+          <Text1> Slick Beauty 2</Text1>
           <Text2>
             <Text31>
               <RectColor />

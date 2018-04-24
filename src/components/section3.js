@@ -4,13 +4,18 @@ import Banner from './banner'
 import Scroller from './scroller'
 const Wrap = styled.div`
   display: grid;
-  grid-template-columns: 1fr 3.5fr 1fr;
+  grid-template-columns: 1fr 3fr 1fr;
   grid-template-rows: 30px 1fr 30px;
-  min-height: 368px;
+  min-height: 464px;
   background: url('/static/img/bg.png');
   justify-content: center;
   margin-bottom: 60px;
   margin-top: 20px;
+  @media (max-width: 1024px) {
+    grid-template-columns: 1fr 2.8fr 1fr;
+    grid-template-rows: 30px 1fr 30px;
+  }
+
   @media (max-width: 800px) {
     grid-template-columns: 0.1fr 3.5fr 0.1fr;
   }
@@ -40,8 +45,8 @@ const ItemRight = styled.div`
 const Image = styled.div`
   background: url(${props => props.data.image});
   background-size: cover;
-  width: 200px;
-  height: 200px;
+  width: 320px;
+  height: 320px;
   @media (max-width: 800px) {
     background: url();
   }

@@ -9,8 +9,8 @@ var point = 0
 
 const HorizontalBlock = styled.div`
   width: 100%;
-  height: 450px;
-  margin-top: -70px;
+  height: 580px;
+  margin-top: -88px;
   position: absolute;
   z-index: 3;
   border-radius: 15px;
