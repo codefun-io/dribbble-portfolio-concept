@@ -11,6 +11,8 @@ const Wrap = styled.div`
   justify-content: center;
   margin-bottom: 60px;
   margin-top: 20px;
+  box-shadow: 4px -49px 51px 15px rgba(0, 0, 0, 0.05);
+
   @media (max-width: 1024px) {
     grid-template-columns: 1fr 2.8fr 1fr;
     grid-template-rows: 30px 1fr 30px;

@@ -14,17 +14,19 @@ const HorizontalBlock = styled.div`
   position: absolute;
   z-index: 3;
   border-radius: 15px;
-  box-shadow: 4px 4px 12px 4px rgba(20%, 20%, 40%, 0.5);
+  box-shadow: 6px 11px 64px 16px rgba(0, 0, 0, 0.1);
   background: #fff;
   overflow: hidden;
 `
 
 const PassRight = keyframes`
  0% { transform: translateX(300%);}
+ 50% { transform: translateX(10%);}
  100% {transform: translateX(0%);}
 `
 const PassLeft = keyframes`
 0% { transform: translateX(-300%);       }
+50% { transform: translateX(-10%);}
  100% {transform: translateX(0%);}
  
 `

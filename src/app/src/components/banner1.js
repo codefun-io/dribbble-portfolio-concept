@@ -26,7 +26,8 @@ const Banner = styled.div`
 `
 const Text1 = styled.div`
   margin-left: 10px;
-  font-size: 3.5em;
+  font-size: 4.5em;
+  letter-spacing: 4px;
   white-space: nowrap;
   @media (max-width: 400px) {
     font-size: 1.5em;
@@ -40,6 +41,7 @@ const Text2 = styled.div`
 const Text3 = styled.div`
   color: #ff377c;
   margin-top: 30px;
+  font-weight: bold;
 `
 const Text31 = styled.div`
   color: #ff377c;
@@ -49,6 +51,7 @@ const Text31 = styled.div`
 const Text32 = styled.div`
   grid-column: 3;
   grid-row: 2;
+  width: 18rem;
 `
 const RectColor = styled.div`
   margin-top: 8px;
@@ -69,7 +72,7 @@ const Bg = styled.div`
   height: 400px;
   position: absolute;
   bottom: -150px;
-  right: 30px;
+  right: 20px;
   z-index: -1;
   background-size: cover;
 
@@ -94,7 +97,7 @@ const Button = styled.a`
   height: 30px;
   border-radius: 50px;
   background: #f8f8f8;
-  box-shadow: 2px 2px 2px 2px rgba(20%, 20%, 20%, 0.2);
+  box-shadow: 2px 2px 20px 2px rgba(20%, 20%, 20%, 0.2);
   grid-column: ${props => props.data.column};
 `
 const ButtonArea = styled.div`
@@ -106,9 +109,6 @@ const ButtonArea = styled.div`
   right: 40px;
   bottom: -100px;
   display: grid;
-  @media (max-width: 400px) {
-    right: 40px;
-  }
 `
 
 export default props => {
