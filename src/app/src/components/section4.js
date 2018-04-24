@@ -8,7 +8,6 @@ const Wrap = styled.div`
   align-items: center;
   margin: 0 auto;
   padding: 4rem 0 10rem 0;
-  min-width: 400px;
   @media (max-width: 700px) {
     flex-direction: column;
   }

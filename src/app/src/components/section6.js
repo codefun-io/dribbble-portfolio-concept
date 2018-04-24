@@ -3,17 +3,15 @@ import styled from 'styled-components'
 
 const Wrapper = styled.div`
   margin-top: -0.1rem;
-  padding: 7rem;
   text-align: center;
   background-color: #f2f2f2;
-  @media only screen and (max-width: 618px) {
-    padding: 7rem 2rem;
-  }
+  height: 26rem;
 `
 
 const Text = styled.div`
-  font-size: 5rem;
+  font-size: 4.5rem;
   font-weight: lighter;
+  padding: ${props => props.theme && props.theme.padding};
   @media only screen and (max-width: 618px) {
     font-size: 3.5rem;
   }
@@ -23,16 +21,22 @@ const Text = styled.div`
 `
 
 const Form = styled.form`
-  padding-top: 5rem;
+  padding-top: 4rem;
 `
 
 const TextField = styled.div`
-  width: 35rem;
+  width: 35rem !important;
+  @media only screen and (max-width: 500px) {
+    width: 24rem !important;
+  }
+  @media only screen and (max-width: 320px) {
+    width: 20rem !important;
+  }
 `
 
 const Input = styled.input`
   border-bottom: 1px solid #606060;
-  padding-left: 0.8rem;
+  padding-left: 0.8rem !important;
 `
 
 const Label = styled.label`
@@ -57,7 +61,7 @@ const Triangle = styled.img`
 
 const GetUpdate = () => (
   <Wrapper>
-    <Text>Get updates</Text>
+    <Text theme={{ padding: '6rem 0 0 0' }}>Get updates</Text>
     <Form action="#">
       <TextField className="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <Input className="mdl-textfield__input" type="text" />

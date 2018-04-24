@@ -20,7 +20,7 @@ const WrapTitle2 = styled.div`
   margin-top: 2rem;
   font-size: 3.5em;
   letter-spacing: 4px;
-  @media (max-width: 425px) {
+  @media (max-width: 470px) {
     font-size: 2.5em;
   }
   @media (max-width: 320px) {
@@ -33,6 +33,7 @@ const BoldTitle = styled.b`
 `
 
 const Titleh3 = styled.div`
+  font-size: 0.9em;
   margin-top: 4rem;
   width: 35rem;
   text-align: center;
@@ -47,6 +48,10 @@ const Titleh3 = styled.div`
 
 const ButtonWrap = styled.div`
   margin-top: 4rem;
+  @media (max-width: 768px) {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
 `
 
 const A = styled.a`
@@ -63,26 +68,24 @@ const Button = styled.div`
   font-weight: bold;
 `
 
-const Section5 = props => {
-  return (
-    <Wrap>
-      <Titleh4>REYKYAVIK BASED</Titleh4>
-      <WrapTitle2>
-        We are <BoldTitle>HIRING.</BoldTitle>{' '}
-      </WrapTitle2>
-      <Titleh3>
-        Reykjavik or remote, get in touch and find a perfect spot for you.
-        <br />
-        We're looking for awesome people and Martians
-      </Titleh3>
+const Section5 = () => (
+  <Wrap>
+    <Titleh4>REYKYAVIK BASED</Titleh4>
+    <WrapTitle2>
+      We are <BoldTitle>HIRING.</BoldTitle>{' '}
+    </WrapTitle2>
+    <Titleh3>
+      Reykjavik or remote, get in touch and find a perfect spot for you.
+      <br />
+      We're looking for awesome people and Martians
+    </Titleh3>
 
-      <ButtonWrap>
-        <A>
-          <Button>LEARN MORE</Button>
-        </A>
-      </ButtonWrap>
-    </Wrap>
-  )
-}
+    <ButtonWrap>
+      <A>
+        <Button>LEARN MORE</Button>
+      </A>
+    </ButtonWrap>
+  </Wrap>
+)
 
 export default Section5

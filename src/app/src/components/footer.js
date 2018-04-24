@@ -3,16 +3,17 @@ import styled from 'styled-components'
 
 const Warpper = styled.div`
   background-color: #606060;
-  padding: 0 5rem;
+  padding: 0 5.5rem;
+  height: 14rem;
   @media only screen and (max-width: 320px) {
     padding: 0 3rem;
   }
 `
 
 const LogoArea = styled.a`
+  padding-top: 2.5rem;
   display: flex;
   align-items: center;
-  padding-top: 2rem;
   cursor: pointer;
   width: 100px;
 `
@@ -24,7 +25,7 @@ const Logo = styled.img`
 `
 
 const Social = styled.div`
-  padding: 2rem 0;
+  padding: 1.5rem 0 2rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,7 +40,7 @@ const Icon = styled.img`
 const CopyRight = styled.div`
   display: flex;
   justify-content: space-between;
-  padding-bottom: 1rem;
+  padding-top: 1.2rem;
 `
 
 const Left = styled.div`
