@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-import { Hero } from '../components/hero'
+
 import { Section } from '../components/section'
 import { Button } from '../components/button'
+
 const Wrap = styled.div`
   display: grid;
   grid-template-columns: 60% 40%;
