@@ -31,6 +31,12 @@ export default class MyDocument extends Document {
             href="https://code.getmdl.io/1.3.0/material.pink-indigo.min.css"
           />
           <script defer src="https://code.getmdl.io/1.3.0/material.min.js" />
+          <link
+            rel="shortcut icon"
+            href="static/img/favicon.ico"
+            type="image/x-icon"
+          />
+          <link rel="icon" href="static/img//favicon.ico" type="image/x-icon" />
         </Head>
         <body>
           <Main />
