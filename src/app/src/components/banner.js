@@ -90,6 +90,7 @@ const Bg = styled.div`
     bottom: -140px;
   }
 `
+
 const Button = styled.a`
   color: #000;
   display: flex;
@@ -113,13 +114,13 @@ const ButtonArea = styled.div`
   display: grid;
 `
 
-export default props => {
+export default data => props => {
   return (
     <Banner data={{ top: props.top }}>
-      <Bg data={{ image: props.image || '/static/img/phone.png' }} />
+      <Bg data={{ image: data.image || '/static/img/phone.png' }} />
       <BannerGrid>
         <TextArea>
-          <Text1> {props.title || 'Stick Beauty '}</Text1>
+          <Text1> {data.title || 'Stick Beauty '}</Text1>
           <Text2>
             <Text31>
               <RectColor />

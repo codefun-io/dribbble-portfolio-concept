@@ -1,13 +1,22 @@
 import React, { Component } from 'react'
-import Banner from './banner'
+import createBnner from './banner'
 
 import styled, { keyframes } from 'styled-components'
-console.log(Banner)
-//let dataBanner = [Banner, Banner, Banner]
+// console.log(Banner)
+// let dataBanner = [Banner, Banner, Banner]
 
-let Bannerx1 = <Banner title="Slick Beauty 1" image="/static/img/phone.png" />
-let Bannerx2 = <Banner title="Slick Beauty 2" image="/static/img/phone1.png" />
-let Bannerx3 = <Banner title="Slick Beauty 3" image="/static/img/phone2.png" />
+let Bannerx1 = createBnner({
+  title: 'Slick Beauty 1',
+  image: '/static/img/phone.png'
+})
+let Bannerx2 = createBnner({
+  title: 'Slick Beauty 2',
+  image: '/static/img/phone1.png'
+})
+let Bannerx3 = createBnner({
+  title: 'Slick Beauty 3',
+  image: '/static/img/phone2.png'
+})
 let dataBanner = [Bannerx1, Bannerx2, Bannerx3]
 
 var point = 0
