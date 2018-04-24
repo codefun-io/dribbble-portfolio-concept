@@ -19,7 +19,7 @@ export default class MyDocument extends Document {
           {this.props.styleTags}
           <meta content="width=device-width,initial-scale=1" name="viewport" />
           <link
-            href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700"
+            href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700"
             rel="stylesheet"
           />
           <link

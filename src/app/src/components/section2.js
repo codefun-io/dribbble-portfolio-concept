@@ -13,7 +13,7 @@ const Titleh4 = styled.div`
   font-size: 0.7em;
   letter-spacing: 5px;
   color: #bfbfbf;
-  font-weight: bold;
+  font-weight: 600;
 `
 
 const WrapTitle2 = styled.div`
@@ -27,10 +27,10 @@ const WrapTitle2 = styled.div`
 `
 
 const Titleh3 = styled.div`
-  width: 31rem;
+  width: 32rem;
   text-align: center;
   margin-top: 3.2rem;
-  font-size: 0.81em;
+  font-size: 0.75em;
   color: #8e8e8e;
   @media (max-width: 425px) {
     padding: 0 4rem;

@@ -67,6 +67,7 @@ const Desc = Text.extend`
   margin: 0 auto;
   width: 35rem;
   text-align: center;
+  letter-spacing: 0.5px;
   @media only screen and (max-width: 650px) {
     width: 80%;
   }
@@ -120,7 +121,7 @@ const Section1 = () => (
         <SubTitle
           theme={{
             color: '#fff',
-            fontSize: '2.5rem',
+            fontSize: '2.3rem',
             padding: '0 0.9rem 0 0',
             fontWeight: 'lighter'
           }}
@@ -130,7 +131,7 @@ const Section1 = () => (
         <SubTitle
           theme={{
             color: '#fff',
-            fontSize: '2.5rem',
+            fontSize: '2.3rem',
             fontWeight: 'bold'
           }}
         >
@@ -142,7 +143,7 @@ const Section1 = () => (
         <Desc
           theme={{
             color: 'rgba(255, 255, 255, 0.8)',
-            fontSize: '0.96rem',
+            fontSize: '0.8rem',
             fontWeight: 'lighter'
           }}
         >
