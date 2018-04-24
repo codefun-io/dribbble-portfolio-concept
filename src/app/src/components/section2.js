@@ -35,6 +35,9 @@ const Titleh3 = styled.div`
   @media (max-width: 425px) {
     padding: 0 4rem;
   }
+  @media (max-width: 320px) {
+    padding: 0 6rem;
+  }
 `
 
 export default () => (
