@@ -7,7 +7,7 @@ const Wrap = styled.div`
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  padding: 4rem 0 10rem 0;
+  padding: 4.5rem 0 10rem 0;
   @media (max-width: 700px) {
     flex-direction: column;
   }

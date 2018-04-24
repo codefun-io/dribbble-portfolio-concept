@@ -1,25 +1,26 @@
 import React, { Component } from 'react'
+import styled, { keyframes } from 'styled-components'
+
 import createBnner from './banner'
 
-import styled, { keyframes } from 'styled-components'
-// console.log(Banner)
-// let dataBanner = [Banner, Banner, Banner]
-
-let Bannerx1 = createBnner({
-  title: 'Slick Beauty 1',
-  image: '/static/img/phone.png'
-})
-let Bannerx2 = createBnner({
-  title: 'Slick Beauty 2',
-  image: '/static/img/phone1.png'
-})
-let Bannerx3 = createBnner({
-  title: 'Slick Beauty 3',
+const Bannerx1 = createBnner({
+  title: 'Slick Beauty',
   image: '/static/img/phone2.png'
 })
-let dataBanner = [Bannerx1, Bannerx2, Bannerx3]
 
-var point = 0
+const Bannerx2 = createBnner({
+  title: 'Slick Beauty',
+  image: '/static/img/phone1.png'
+})
+
+const Bannerx3 = createBnner({
+  title: 'Slick Beauty',
+  image: '/static/img/phone.png'
+})
+
+const dataBanner = [Bannerx1, Bannerx2, Bannerx3]
+
+let point = 0
 
 const HorizontalBlock = styled.div`
   width: 100%;
@@ -34,15 +35,15 @@ const HorizontalBlock = styled.div`
 `
 
 const PassRight = keyframes`
- 0% { transform: translateX(300%);}
- 50% { transform: translateX(10%);}
- 100% {transform: translateX(0%);}
+  0% { transform: translateX(300%);}
+  50% { transform: translateX(10%);}
+  100% {transform: translateX(0%);}
 `
+
 const PassLeft = keyframes`
-0% { transform: translateX(-300%);       }
-50% { transform: translateX(-10%);}
- 100% {transform: translateX(0%);}
- 
+  0% { transform: translateX(-300%);}
+  50% { transform: translateX(-10%);}
+  100% {transform: translateX(0%);}
 `
 const Animation = styled.div`
   position: absolute;

@@ -3,8 +3,8 @@ import styled from 'styled-components'
 
 const BannerGrid = styled.div`
   display: grid;
-  grid-template-columns: 80px 3fr 350px;
-  grid-template-rows: 150px minmax(300px, max-content) 150px;
+  grid-template-columns: 65px 3fr 350px;
+  grid-template-rows: 160px minmax(300px, max-content) 150px;
   @media (max-width: 500px) {
     grid-template-columns: 1rem 3fr 350px;
   }
@@ -24,50 +24,70 @@ const Banner = styled.div`
   transition: 4s;
   transform: translate(0px, 0px);
 `
+
 const Text1 = styled.div`
   margin-left: 10px;
-  font-size: 4.5em;
-  letter-spacing: 4px;
+  font-size: 3.5em;
   white-space: nowrap;
-  color: #303233;
+  color: #4a4b4c;
+  font-weight: 300;
+  @media (max-width: 425px) {
+    font-size: 2.5em;
+  }
   @media (max-width: 400px) {
-    font-size: 1.5em;
+    font-size: 2em;
   }
 `
+
 const Text2 = styled.div`
   display: grid;
-  grid-template-columns: 20px 50px 1fr;
+  grid-template-columns: 20px 70px 1fr;
   grid-template-rows: 40px minmax(300px, max-content);
 `
-const Text3 = styled.div`
+
+const Text3 = styled.a`
   color: #ff377c;
   margin-top: 30px;
   font-weight: bold;
+  display: block;
 `
+
 const Text31 = styled.div`
   color: #ff377c;
   grid-column: 1;
   grid-row: 2;
+  @media (max-width: 425px) {
+    display: none;
+  }
 `
+
 const Text32 = styled.div`
   grid-column: 3;
   grid-row: 2;
-  width: 18rem;
-  color: #b4b4b4;
+  width: 21rem;
+  color: #8f8f8f;
+  font-size: 0.85rem;
+  @media (max-width: 425px) {
+    grid-column: 2;
+    width: 17rem;
+  }
 `
+
 const RectColor = styled.div`
   margin-top: 8px;
   margin-left: 15px;
-  width: 38px;
+  width: 45px;
   height: 4px;
   background-color: #ff377c;
 `
+
 const TextArea = styled.div`
   grid-column: 2/2;
   grid-row: 2/4;
   display: flex;
   flex-direction: column;
 `
+
 const Bg = styled.div`
   background: url(${props => props.data.image});
   width: 450px;
@@ -89,6 +109,13 @@ const Bg = styled.div`
     height: 200px;
     bottom: -140px;
   }
+
+  @media (max-width: 320px) {
+    width: 264px;
+    height: 200px;
+    bottom: -140px;
+    right: 80px;
+  }
 `
 
 const Button = styled.a`
@@ -100,9 +127,10 @@ const Button = styled.a`
   height: 30px;
   border-radius: 50px;
   background: #f8f8f8;
-  box-shadow: 2px 2px 20px 2px rgba(20%, 20%, 20%, 0.2);
+  box-shadow: 2px 2px 20px 2px rgba(20%, 20%, 20%, 0.15);
   grid-column: ${props => props.data.column};
 `
+
 const ButtonArea = styled.div`
   grid-column: 3;
   grid-row: 3;
@@ -112,12 +140,19 @@ const ButtonArea = styled.div`
   right: 40px;
   bottom: -100px;
   display: grid;
+  @media (max-width: 320px) {
+    width: 156px;
+    height: 30px;
+  }
 `
 
 export default data => props => {
   return (
     <Banner data={{ top: props.top }}>
-      <Bg data={{ image: data.image || '/static/img/phone.png' }} />
+      <Bg
+        className="background"
+        data={{ image: data.image || '/static/img/phone.png' }}
+      />
       <BannerGrid>
         <TextArea>
           <Text1> {data.title || 'Stick Beauty '}</Text1>
