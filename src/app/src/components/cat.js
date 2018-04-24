@@ -6,8 +6,6 @@ const Img = styled.img`
   height: 100%;
 `
 
-const Cat = () => (
-  <Img src="/static/img/background.png" className="background" />
-)
+const Cat = () => <Img src="/static/img/imac.png" className="background" />
 
 export default Cat
